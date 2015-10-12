@@ -15,6 +15,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 [Tips](#tips)  •
 [Rocks](#rocks)
 
+### _Anything missing? [Add your news posting.](https://github.com/viennahtml/viennahtml.github.io/blob/master/jekyll/index.md)_
 
 
 ## News
