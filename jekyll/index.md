@@ -20,49 +20,48 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 ## News
 
-23. Sep. - Jekyll @jekyllrb
+23. Sep. - Jekyll @jekyllrb  [#](https://twitter.com/jekyllrb/status/646742712578887680)
 
 > Good day, Jekyllers! An update to jekyll-watch has been pushed out – Listen 3!
 > Should alleviate some issues. <https://github.com/jekyll/jekyll-watch/releases/tag/v1.3.0>
-> [#](https://twitter.com/jekyllrb/status/646742712578887680)
 
-27. Aug. - RubyGems @rubygems
+
+27. Aug. - RubyGems @rubygems  [#](https://twitter.com/rubygems/status/637020368553820160)
 
 > jekyll-conrefifier (0.4.3): A set of monkey patches that allows you to use Liquid variables
 > in a variety of places… <https://rubygems.org/gems/jekyll-conrefifier>
-> [#](https://twitter.com/rubygems/status/637020368553820160)
 
-Jekyll ‏@jekyllrb  - [13. Sep.](https://twitter.com/jekyllrb/status/643158810522087424)
+
+13. Sep. - Jekyll @jekyllrb  [#](https://twitter.com/jekyllrb/status/643158810522087424)
 
 > Stuck on WordPress? jekyll-import v0.8.0 (newly released!) makes the switch to Jekyll even easier:
 > <https://github.com/jekyll/jekyll-import/releases/tag/v0.8.0>
 
 
-RubyGems ‏@rubygems - [7. Sep.](https://twitter.com/rubygems/status/640918263598178304)
+10. Sep. - Vienna.html @viennahtml  [#](https://twitter.com/viennahtml/status/641865870281674752)
+
+> Easier Web Feeds for GitHub Pages Using the Jekyll Feed Plugin
+> <https://github.com/blog/2053-easier-feeds-for-github-pages> (Works w/ "Plain Vanilla" Jekyll Static Sites Too)
+
+7. Sep. - RubyGems @rubygems  [#](https://twitter.com/rubygems/status/640918263598178304)
 
 > octopress-ink (1.2.1): A framework for creating themes and plugins for Jekyll sites
 > <https://rubygems.org/gems/octopress-ink>
 
 
-Vienna.html ‏@viennahtml - [10. Sep.](https://twitter.com/viennahtml/status/641865870281674752)
-
-> Easier Web Feeds for GitHub Pages Using the Jekyll Feed Plugin
-> <https://github.com/blog/2053-easier-feeds-for-github-pages> (Works w/ "Plain Vanilla" Jekyll Static Sites Too)
-
-
-Vienna.html ‏@viennahtml - [16. Aug.](https://twitter.com/viennahtml/status/632866291397824512)
+16. Aug. - Vienna.html @viennahtml  [#](https://twitter.com/viennahtml/status/632866291397824512)
 
 > New Jekyll Command Line Tool - mrh/mrhyde - Static Site Quick Starter Script Wizard
 > -> <https://github.com/mrhydescripts/mrhyde> Automate, Automate, Automate
 
 
-Vienna.html ‏@viennahtml - [11. Aug.](https://twitter.com/viennahtml/status/631232781989842944)
+11. Aug. - Vienna.html @viennahtml  [#](https://twitter.com/viennahtml/status/631232781989842944)
 
 > drj/drjekyll - The Missing Static Site Theme Package Manager - Jekyll Command Line Tool
 > -> <https://github.com/drjekyllthemes/drjekyll>
 
 
-RubyGems ‏@rubygems  - [13. Juli](https://twitter.com/rubygems/status/620538174025170944)
+13. Juli - RubyGems @rubygems  [#](https://twitter.com/rubygems/status/620538174025170944)
 
 > jekyll-scholar (4.5.0):  Jekyll-Scholar is for all the academic bloggers out there.
 > It is a set of extensions for… <http://rubygems.org/gems/jekyll-scholar>
