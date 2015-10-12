@@ -8,7 +8,13 @@
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
 
 
-News . Markdown . Themes . Articles & Books . Tips . Rocks
+[News](#news) .
+[Markdown](#markdown) . 
+[Themes](#themes) . 
+[Articles & Books](articles--books) . 
+[Tips](tips) . 
+[Rocks](rocks)
+
 
 
 ## News
@@ -16,23 +22,23 @@ News . Markdown . Themes . Articles & Books . Tips . Rocks
 Jekyll ‏@jekyllrb  - [23. Sep.](https://twitter.com/jekyllrb/status/646742712578887680)
 
 > Good day, Jekyllers! An update to jekyll-watch has been pushed out – Listen 3!
-> Should alleviate some issues. https://github.com/jekyll/jekyll-watch/releases/tag/v1.3.0
+> Should alleviate some issues. <https://github.com/jekyll/jekyll-watch/releases/tag/v1.3.0>
 
 RubyGems ‏@rubygems - [27. Aug.](https://twitter.com/rubygems/status/637020368553820160)
 
 > jekyll-conrefifier (0.4.3): A set of monkey patches that allows you to use Liquid variables
-> in a variety of places… https://rubygems.org/gems/jekyll-conrefifier
+> in a variety of places… <https://rubygems.org/gems/jekyll-conrefifier>
 
 Jekyll ‏@jekyllrb  - [13. Sep.](https://twitter.com/jekyllrb/status/643158810522087424)
 
 > Stuck on WordPress? jekyll-import v0.8.0 (newly released!) makes the switch to Jekyll even easier:
-> https://github.com/jekyll/jekyll-import/releases/tag/v0.8.0
+> <https://github.com/jekyll/jekyll-import/releases/tag/v0.8.0>
 
 
 RubyGems ‏@rubygems - [7. Sep.](https://twitter.com/rubygems/status/640918263598178304)
 
 > octopress-ink (1.2.1): A framework for creating themes and plugins for Jekyll sites
-> https://rubygems.org/gems/octopress-ink
+> <https://rubygems.org/gems/octopress-ink>
 
 
 Vienna.html ‏@viennahtml - [10. Sep.](https://twitter.com/viennahtml/status/641865870281674752)
