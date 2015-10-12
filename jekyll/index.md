@@ -147,48 +147,48 @@ June/2 - Moritz »mo.« Sauer @phlow   [#](https://twitter.com/phlow/status/6057
 
 ## Articles & Books
 
-Mario Martínez ‏@mariodevcom  - [30. Sep.](https://twitter.com/mariodevcom/status/649121586310684672)
+Sep/30 - Mario Martínez @mariodevcom   [#](https://twitter.com/mariodevcom/status/649121586310684672)
 
 > A static website engine: "Getting Started with Jekyll"
 > <http://developer.telerik.com/featured/getting-started-with-jekyll>
 
-Brian Rinaldi ‏@remotesynth - [29. Sep.](https://twitter.com/remotesynth/status/648842720308523008)
+Sep/29 - Brian Rinaldi @remotesynth  [#](https://twitter.com/remotesynth/status/648842720308523008)
 
 > In my latest post, I discuss when you should consider using a static site
 > or when you really need a CMS. <http://developer.telerik.com/featured/static-site-or-cms>
 
 
-Vienna.html ‏@viennahtml - [27. Sep.](https://twitter.com/viennahtml/status/648043398172135425)
+Sep/27 - Vienna.html @viennahtml - [#](https://twitter.com/viennahtml/status/648043398172135425)
 
 > Free O'Reilly E-Book Download - Static Site Generators: Modern Tools for Static Website Development
 > by Brian Rinaldi <http://www.oreilly.com/web-platform/free/static-site-generators.csp> 
 
 
-Ataraxia Effect ‏@heeyblitz - [25. Sep.](https://twitter.com/heeyblitz/status/647536100282630144)
+Sep/25 - Ataraxia Effect @heeyblitz  [#](https://twitter.com/heeyblitz/status/647536100282630144)
 
 > How to build a static website with Grunt, Jekyll, and LibSass
 > <http://yellowpencil.com/blog/how-to-build-static-site-with-jekyll-grunt-libsass>
 
 
-The New Dynamic ‏@thenewdynamic - [22. Sep.](https://twitter.com/thenewdynamic/status/646342164138450944)
+Sep/22 - The New Dynamic @thenewdynamic  [#](https://twitter.com/thenewdynamic/status/646342164138450944)
 
 > Just posted @philhawksworth's talk on static site generators.
 > Here's the direct link: <https://speakerdeck.com/philhawksworth/static-sites-go-all-hollywood>
 
 
-Ben Balter ‏@BenBalter - [14. Sep.](https://twitter.com/BenBalter/status/643428549945360385)
+Sep/14 - Ben Balter @BenBalter   [#](https://twitter.com/BenBalter/status/643428549945360385)
 
 > How to add an “improve this content” button to your GitHub Pages site
 > <http://ben.balter.com/2015/09/13/github-pages-edit-button>
 
 
-ProfHacker ‏@ProfHacker  - [31. Aug.](https://twitter.com/ProfHacker/status/638330427518881792)
+Aug/31 - ProfHacker @ProfHacker   [#](https://twitter.com/ProfHacker/status/638330427518881792)
 
 > New post by @elotroalex: "How (and Why) to Generate a Static Website Using @jekyllrb, Part 1"
 > <http://chronicle.com/blogs/profhacker/jekyll1/60913>
 
 
-Vienna.html ‏@viennahtml  - [1. Aug.](https://twitter.com/viennahtml/status/627530990718722050)
+Aug/1 - Vienna.html @viennahtml   [#](https://twitter.com/viennahtml/status/627530990718722050)
 
 > YAML Quick Reference (Example Cheat Sheet) for Jekyll Datafiles 'n' Collections @ Planet Jekyll
 > -> <https://github.com/planetjekyll/quickrefs/blob/master/YAML.md>
@@ -198,12 +198,12 @@ Vienna.html ‏@viennahtml  - [1. Aug.](https://twitter.com/viennahtml/status/62
 
 ## Tips
 
-Pete Corey ‏@petecorey - [24. Sep.](http://twitter.com/petecorey/status/647089739162480640)
+Sep/24  - Pete Corey @petecorey   [#](http://twitter.com/petecorey/status/647089739162480640)
 
 > In Kramdown, you can do this: `var mind="blown";`{: .language-javascript}
 > This makes @prismjs highlighting crazy easy on my @jekyllrb blog!
 
-Daniel Eden ‏@_dte - [14. Aug.](https://twitter.com/_dte/status/631994909809967105)
+Aug/14 - Daniel Eden @\_dte   [#](https://twitter.com/_dte/status/631994909809967105)
 
 > The jekyll-assets gem (<https://github.com/jekyll-assets/jekyll-assets>)
 > lets me inline and greatly compress all my CSS and JS #perfmatters
@@ -214,49 +214,50 @@ Daniel Eden ‏@_dte - [14. Aug.](https://twitter.com/_dte/status/63199490980996
 
 ## Rocks
 
-Frank Boucher ‏@fboucheros - [8. Okt.](http://twitter.com/fboucheros/status/651944133305704448)
+Oct/8  - Frank Boucher @fboucheros   [#](http://twitter.com/fboucheros/status/651944133305704448)
 
 > Wow, that what easy! I used #jekyll to generate a static website.
 > Few minutes and it was done. The longer part was to pick a themes!
 
 
-James Zetlen ‏@jzetlen - [30. Sep.](https://twitter.com/jzetlen/status/649049891755401216)
+Sep/30 - James Zetlen @jzetlen   [#](https://twitter.com/jzetlen/status/649049891755401216)
 
 > i think you might enjoy a static site generator.
 > they're radically simple, there are many "portfolio" templates, you own your site
 
 
-Kyle Werner ‏@wernull  - [26. Sep.](https://twitter.com/wernull/status/647908343768444928)
+Sep/26 - Kyle Werner @wernull    [#](https://twitter.com/wernull/status/647908343768444928)
 
 > Wordpress blog keeps going down. Time for a static Jekyll site!
 > I'm using @nsbingham 's recommendation of @octopress
 
-Mark ‏@mrkjlchvz  - [24. Sep.](https://twitter.com/mrkjlchvz/status/646895121540055040)
+Sep/24 - Mark @mrkjlchvz    [#](https://twitter.com/mrkjlchvz/status/646895121540055040)
 
 > I did something useful yesterday! Migrated from plain'ol static page to Jekyll.
 > Check it out. <http://markjoelchavez.com>  #githubpages #jekyll
 
-Michael-Owen Liston ‏@AntlersAnchors  - [22. Sep.](https://twitter.com/AntlersAnchors/status/646369735668551680)
+Sep/22 - Michael-Owen Liston @AntlersAnchors    [#](https://twitter.com/AntlersAnchors/status/646369735668551680)
 
 > Rerolling my portfolio site from scratch as (my first) Jekyll static site w/the aid
 > of a nice template from @femmebot <http://femmebot.github.io/jekyll-grid> 
 
-Gregory Karastergios ‏@Gregory_NK  - [9. Aug.](https://twitter.com/Gregory_NK/status/630512028025790464)
+Sep/10 - polishdub @polishdub   [#](https://twitter.com/polishdub/status/641834318537486336)
 
-> It seems static page generators (Docpad, Jekyll) are the new big thing,
-> so I rewrote my website with one. Saves a lot of time.
+> So tired.  But finally moved my blog from ghost on #debian to #jekyll deployed static files on #freebsd.
+> I feel better already :)
 
-Ken Kelly ‏@kenhkelly  - [25. Aug.](https://twitter.com/kenhkelly/status/636145030734946304)
-
-> My site is now static! I migrated it over to Jekyll and love it.
-> Read all about it in a Jekyll mini-series: <http://kenhkelly.us/2015/08/blog-migration-to-jekyll-part-1>
-
-Pete Bachant ‏@petebachant - [6. Sep.](https://twitter.com/petebachant/status/640313719482904578)
+Sep/6 - Pete Bachant @petebachant - [#](https://twitter.com/petebachant/status/640313719482904578)
 
 > Personal website now migrated over to static HTML (Jekyll).
 > WordPress importer exitwp was not perfect, but helped!
 
-polishdub ‏@polishdub - [10. Sep.](https://twitter.com/polishdub/status/641834318537486336)
+Aug/25 - Ken Kelly @kenhkelly  [#](https://twitter.com/kenhkelly/status/636145030734946304)
 
-> So tired.  But finally moved my blog from ghost on #debian to #jekyll deployed static files on #freebsd.
-> I feel better already :)
+> My site is now static! I migrated it over to Jekyll and love it.
+> Read all about it in a Jekyll mini-series: <http://kenhkelly.us/2015/08/blog-migration-to-jekyll-part-1>
+
+Aug/9 - Gregory Karastergios @Gregory_NK   [#](https://twitter.com/Gregory_NK/status/630512028025790464)
+
+> It seems static page generators (Docpad, Jekyll) are the new big thing,
+> so I rewrote my website with one. Saves a lot of time.
+
