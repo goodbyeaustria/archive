@@ -1,12 +1,6 @@
 ---
 ---
 
-# Jekyll News & Updates
-
-
-Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
-
-
 [News](#news)  •
 [Markdown](#markdown)  •
 [Themes](#themes)  •
@@ -14,20 +8,29 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 [Tips](#tips)  •
 [Rocks](#rocks)
 
+
+# Jekyll News & Updates
+
+
+Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
+
+
 ### _Anything missing? [Add your news posting.](https://github.com/viennahtml/viennahtml.github.io/blob/master/jekyll/index.md)_
 
 
 ## News
 
-Jekyll ‏@jekyllrb  - [23. Sep.](https://twitter.com/jekyllrb/status/646742712578887680)
+23. Sep. - Jekyll @jekyllrb
 
 > Good day, Jekyllers! An update to jekyll-watch has been pushed out – Listen 3!
 > Should alleviate some issues. <https://github.com/jekyll/jekyll-watch/releases/tag/v1.3.0>
+> [#](https://twitter.com/jekyllrb/status/646742712578887680)
 
-RubyGems ‏@rubygems - [27. Aug.](https://twitter.com/rubygems/status/637020368553820160)
+27. Aug. - RubyGems @rubygems
 
 > jekyll-conrefifier (0.4.3): A set of monkey patches that allows you to use Liquid variables
 > in a variety of places… <https://rubygems.org/gems/jekyll-conrefifier>
+> [#](https://twitter.com/rubygems/status/637020368553820160)
 
 Jekyll ‏@jekyllrb  - [13. Sep.](https://twitter.com/jekyllrb/status/643158810522087424)
 
