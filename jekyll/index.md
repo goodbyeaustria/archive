@@ -1,5 +1,4 @@
 ---
-# add front matter here
 ---
 
 # Jekyll News & Updates
