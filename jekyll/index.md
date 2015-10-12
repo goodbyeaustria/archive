@@ -71,12 +71,12 @@ Juli/13 - RubyGems @rubygems  [#](https://twitter.com/rubygems/status/6205381740
 
 ## Markdown
 
-Thomas Leitner ‏@_gettalong - [1. Okt.](http://twitter.com/_gettalong/status/649672371486502912)
+Oct/1 - Thomas Leitner @\_gettalong  [#](http://twitter.com/_gettalong/status/649672371486502912)
 
 > Just released #kramdown version 1.9.0 - see <http://kramdown.gettalong.org/news.html> 
 
 
-RubyGems ‏@rubygems - [13. Juli](https://twitter.com/rubygems/status/620519568822415360)
+Juli/13 - RubyGems @rubygems  [#](https://twitter.com/rubygems/status/620519568822415360)
 
 > govspeak (3.4.0): A set of extensions to markdown layered on top of the kramdown
 > library for use in the UK <http://rubygems.org/gems/govspeak> 
@@ -86,60 +86,60 @@ RubyGems ‏@rubygems - [13. Juli](https://twitter.com/rubygems/status/620519568
 
 ## Themes
   
-{ Panos Sakkos } ‏@thepanoss - [30. Sep.](https://twitter.com/thepanoss/status/649359600844730368)
+Sep/30  - { Panos Sakkos } @thepanoss  [#](https://twitter.com/thepanoss/status/649359600844730368)
 
 > { Personal } @jekyllrb theme got its own demo with tutorial posts! :)
 > <http://panossakkos.github.io/personal-jekyll-theme> #jekyll #github #opensource
 
 
-Github Trending ‏@TrendingGithub  - [26. Sep.](https://twitter.com/TrendingGithub/status/647812080477818880)
+Sep/26 - Github Trending @TrendingGithub  [#](https://twitter.com/TrendingGithub/status/647812080477818880)
 
 > johnotander/pixyll: A simple, beautiful Jekyll theme that's mobile first. ★660
 > <https://github.com/johnotander/pixyll>
 
 
-Github Trending ‏@TrendingGithub - [18. Sep.](https://twitter.com/TrendingGithub/status/644772797877747712)
+Sep/18 - Github Trending @TrendingGithub  [#](https://twitter.com/TrendingGithub/status/644772797877747712)
 
 > poole/hyde: A brazen two-column theme for Jekyll. ★1132
 > <https://github.com/poole/hyde>
 
 
-Vienna.html ‏@viennahtml  - [8. Sep.](https://twitter.com/viennahtml/status/641149002789072896)
+Sep/8  - Vienna.html @viennahtml   [#](https://twitter.com/viennahtml/status/641149002789072896)
 
 > New Jekyll Theme Directory -> <http://themes.jekyllrc.org>
 > Browse by Author, A-Z, etc. - Built w/ Jekyll ;-) Includes Live Demos and More
 
-Ben Centra ‏@TheBenCentra - [20. Aug.](https://twitter.com/TheBenCentra/status/634354951741919233)
+
+Aug/20  - Ben Centra @TheBenCentra   [#](https://twitter.com/TheBenCentra/status/634354951741919233)
 
 > I Made a Jekyll Theme <http://bencentra.com/projects/2015/08/19/centrarium.html>
 
 
-Tom Johnson ‏@tomjohnson  - [13. Aug.](https://twitter.com/tomjohnson/status/631841464666816512)
+Aug/13  - Tom Johnson @tomjohnson   [#](https://twitter.com/tomjohnson/status/631841464666816512)
 
 > New post: Version 3.0 of my Documentation theme for Jekyll released
 > <http://idratherbewriting.com/2015/08/13/version-3-jekyll-documentation-theme-released> #techcomm #jekllrb
 
-Moritz »mo.« Sauer ‏@phlow  - [2. Juni](https://twitter.com/phlow/status/605731919632973824)
-
-> \#Theme Great idea by @ddbullfrog to use Jekyll to build a responsive and personal iCard-Resume
-> <https://github.com/ddbullfrog/iCard-Resume>
-
-
-Vienna.html ‏@viennahtml - [2. Aug.](https://twitter.com/viennahtml/status/627780756312604672)
+Aug/2 - Vienna.html @viennahtml   [#](https://twitter.com/viennahtml/status/627780756312604672)
 
 > Planet Jekyll's Showcase - The World's Greatest (Open Source) Static Sites
 > -> <http://planetjekyll.github.io/showcase> 
 
 
-Vienna.html ‏@viennahtml - [20. Juli](https://twitter.com/viennahtml/status/623147488044843009)
+July/20 - Vienna.html @viennahtml  [#](https://twitter.com/viennahtml/status/623147488044843009)
 
 > jekyll-book-theme - Static Site Theme for World (Literature) Classics e.g.
 > The Trial, Dr Jekyll and Mr Hyde, etc. @ <https://github.com/drjekyllthemes/jekyll-book-theme>
 
-
-Postmodern ‏@postmodern_mod3 - [17. Juli](https://twitter.com/postmodern_mod3/status/622111967013007360)
+July/17 - Postmodern @postmodern_mod3   [#](https://twitter.com/postmodern_mod3/status/622111967013007360)
 
 > <http://drjekyllthemes.github.io> there's now a theme repository for @jekyllrb
+
+June/2 - Moritz »mo.« Sauer @phlow   [#](https://twitter.com/phlow/status/605731919632973824)
+
+> \#Theme Great idea by @ddbullfrog to use Jekyll to build a responsive and personal iCard-Resume
+> <https://github.com/ddbullfrog/iCard-Resume>
+
 
 
 
