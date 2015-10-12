@@ -8,11 +8,11 @@
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
 
 
-[News](#news)  • 
-[Markdown](#markdown)  •  
-[Themes](#themes)  •  
-[Articles & Books](#articles--books)  •  
-[Tips](#tips)  •  
+[News](#news)  •
+[Markdown](#markdown)  •
+[Themes](#themes)  •
+[Articles & Books](#articles--books)  •
+[Tips](#tips)  •
 [Rocks](#rocks)
 
 
