@@ -33,3 +33,16 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 - Thanks to @viennajs for organizing. Great talks. Find the "Add Anchor Links to Your Static Site" slides -> <http://slideshow-s9.github.io/demos/anchor.html>
 - Talk: Add Anchor Links to Your (Static) Website w/ Anchor.js by Gerald Bauer at Vienna.js on Wed Sep/30. Join us. Free. -> <http://www.meetup.com/viennajs/events/220339170>
 
+
+
+### More Groups in Vienna • Wien • Vídeň • Beč
+
+[Vienna.js](http://meetup.com/viennajs) • 
+[Vienna.rb](http://vienna-rb.at) •  
+[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup)  
+
+
+### More Groups in the World
+
+[Static Web Tech](http://www.staticwebtech.com) - San Francisco, California  •
+[{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) - New York City, New York
