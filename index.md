@@ -4,6 +4,12 @@
 
 # Vienna.html 
 
+Next meetup:
+
+## Nov Tue 24th @ [Sektor 5](http://www.sektor5.at) (Siebenbrunnengasse 44, Wien 5.) starting at 18.30. Free. Everyone Welcome.
+
+Talks, Talks, Talks - Bring your mini talk! Let us know - new speakers welcome.  
+
 Join Us / Add Yourself to the Vienna.html Members Directory - Free; No Database Required - Just Some YAML ;-) -> <https://github.com/viennahtml/members>
 
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
