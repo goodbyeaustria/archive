@@ -1,5 +1,4 @@
 ---
-#  front matter here
 ---
 
 # Vienna.html - Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč
