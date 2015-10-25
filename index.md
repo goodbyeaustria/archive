@@ -35,14 +35,14 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 
 
-### More Groups in Vienna • Wien • Vídeň • Beč
+### More Groups in Vienna, Austria
 
-[Vienna.js](http://meetup.com/viennajs) • 
-[Vienna.rb](http://vienna-rb.at) •  
-[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup)  
+[Vienna.js](http://meetup.com/viennajs) •
+[Vienna.rb](http://vienna-rb.at) •
+[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup)
 
 
 ### More Groups in the World
 
-[Static Web Tech](http://www.staticwebtech.com) - San Francisco, California  •
-[{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) - New York City, New York
+[Static Web Tech](http://www.staticwebtech.com) @ San Francisco, California  •
+[{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) @ New York City, New York
