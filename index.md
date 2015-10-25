@@ -3,7 +3,7 @@
 
 # Vienna.html
 
-## Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč
+**Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč**
 
 Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
