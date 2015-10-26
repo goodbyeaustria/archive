@@ -14,7 +14,9 @@ Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database R
 
 [Add Sektor 5 Map Here]
 
-**Talks, Talks, Talks - Bring your mini talk! Let us know - new speakers welcome.**  
+**Talks, talks, talks - Bring your mini talk!**  
+
+Let us know. Post your talk on ["our wall"](https://github.com/viennahtml/members/issues/6) or open a new ticket. New speakers welcome.
 
 
 ### Join us
