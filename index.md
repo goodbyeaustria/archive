@@ -39,8 +39,11 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 [Vienna.js](http://meetup.com/viennajs) •
 [Vienna.rb](http://vienna-rb.at) •
-[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup)
-
+[Vienna Ruby Habits](http://meetup.com/RubyHabits) •
+[Vienna PHP](http://meetup.com/viennaphp) •
+[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup) •
+[Python Austria](http://pyug.at) •
+[Vienna UX & Design](http://meetup.com/uxwien)
 
 ### More Groups in the World
 
