@@ -1,0 +1,26 @@
+
+html {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+body {
+  color: #515151;
+  background-color: #fff;
+}
+
+a {
+  /* color: #268bd2;   */
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;   /* bold */
+  color: #313131;
+}
