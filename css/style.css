@@ -12,6 +12,7 @@ body {
 
 a {
   /* color: #268bd2;   */
+  color: #b00800;  /* red */
   text-decoration: none;
 }
 a:hover,
@@ -23,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;   /* bold */
   color: #313131;
+}
+
+h1, h2, h3 {
+  color: #b00800;  /* red */
 }
 
 .container {
