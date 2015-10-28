@@ -11,9 +11,14 @@ Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database R
 
 ### Next meetup
 
-## Nov Tue 24th @ [Sektor 5](http://www.sektor5.at) (Siebenbrunnengasse 44, Wien 5.) starting at 18.30. Free. Everyone Welcome.
+Free. Everyone Welcome.
+
+**Tuesday, November 24th starting at 18.30**   
+**@ [Sektor 5](http://www.sektor5.at)**   
+Siebenbrunnengasse 44, Wien 5.  
 
 [Add Sektor 5 Map Here]
+
 
 **Talks, talks, talks - Bring your mini talk!**  
 
