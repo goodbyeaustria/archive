@@ -13,8 +13,8 @@ Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database R
 
 Free. Everyone Welcome.
 
-**Tuesday, November 24th starting at 18.30**   
-**@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5.**  
+When: **Tuesday, November 24th starting at 18.30**   
+where: **@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5.**  
 
 
 ![](i/sektor5map.jpg)
