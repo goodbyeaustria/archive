@@ -14,7 +14,7 @@ Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database R
 Free. Everyone Welcome.
 
 When:    **Tuesday, November 24th starting at 18.30**   
-Where:   **@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
+Where:   **@ [sektor5 Coworking Café](http://www.sektor5.at) , Siebenbrunnengasse 44, Wien 5**  
 
 
 ![](i/sektor5map.jpg)
@@ -24,7 +24,8 @@ Where:   **@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**
       Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
 - **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
     - Test your styling sense. Fun guaranteed ;-)   
-      Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam and now lives in Vienna and likes non-metaphorical bridges and wants to become Neelie Kroes when grown up.
+      Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam, now lives in Vienna running the sektor5 coworking space. When Floor grows up she wants to become Neelie Kroes.
+
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
