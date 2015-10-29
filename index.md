@@ -20,6 +20,7 @@ Where:   **@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**
 ![](i/sektor5map.jpg)
 
 - **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](https://github.com/geraldb)
+    - Middleman or Jekyll? Metallsmith or Wintersmith? Pelican or Nikola? Emacs or Vim? Let's look at the world's greatest (free) static site builders. 
     - Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
 - **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
     - Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam and now lives in Vienna and likes non-metaphorical bridges and wants to become Neelie Kroes when grown up.
