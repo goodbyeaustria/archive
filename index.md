@@ -16,8 +16,16 @@ Free. Everyone Welcome.
 **Tuesday, November 24th starting at 18.30**   
 **@ [Sektor 5](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5.**  
 
-[Add Sektor 5 Map Here]
 
+![](i/sektor5map.jpg)
+
+- **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](https://github.com/geraldb)
+    - Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Weinviertel in the Wagram hills and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
+- **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
+    - Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam and now lives in Vienna and likes non-metaphorical bridges and wants to become Neelie Kroes when grown up.
+- _Your Talk Here_
+- _Your Talk Here_
+- Discussion & Questions
 
 **Talks, talks, talks - Bring your mini talk!**  
 
