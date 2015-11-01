@@ -25,6 +25,8 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 - **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
     - Test your styling sense. Fun guaranteed ;-)   
       Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam, now lives in Vienna running the sektor5 coworking space. When Floor grows up she wants to become Neelie Kroes.
+- **XSL/T - Generating Static Sites Like It's 1999** by [Sebastian Gräßl](http://bastilian.me)
+    - Bio: Sebastian Gräßl is a social network addict; information junkie; part time party-goer; working at @EngineYard; music freak; i'm a pirate.
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
