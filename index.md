@@ -9,11 +9,11 @@ layout: default
 Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
-### Next meetup
+### Next meetup in 2016
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, February 23rd, 2016 starting at 18.30**   
+When:    **Tuesday, February 23rd starting at 18.30**   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -36,6 +36,8 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 
 ### Past meetups
+
+**2015**
 
 When: **Tuesday, November 24th starting at 18.30**   
 
