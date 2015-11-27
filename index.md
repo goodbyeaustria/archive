@@ -13,20 +13,12 @@ Static is the New Dynamic // Jekyll & Friends // Join Us (Free) // No Database R
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, November 24th starting at 18.30**   
+When:    **Tuesday, February 23rd, 2016 starting at 18.30**   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
 ![](i/sektor5map.jpg)
 
-- **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](https://github.com/geraldb)
-    - Middleman or Jekyll? Metallsmith or Wintersmith? Pelican or Nikola? Emacs or Vim? Let's look at the world's greatest (free) static site builders.   
-      Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
-- **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
-    - Test your styling sense. Fun guaranteed ;-)   
-      Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam, now lives in Vienna running the sektor5 coworking space. When Floor grows up she wants to become Neelie Kroes.
-- **XSL/T - Generating Static Sites Like It's 1999** by [Sebastian Gräßl](http://bastilian.me)
-    - Bio: Sebastian Gräßl is a social network addict; information junkie; part time party-goer; working at @EngineYard; music freak; i'm a pirate.
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
@@ -41,6 +33,20 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 [Add yourself to the Vienna.html Members Directory](https://github.com/viennahtml/members) - free; no database required - just some YAML ;-)
 
 [Add Members Here]
+
+
+### Past meetups
+
+When: **Tuesday, November 24th starting at 18.30**   
+
+- **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](https://github.com/geraldb)
+    - Middleman or Jekyll? Metallsmith or Wintersmith? Pelican or Nikola? Emacs or Vim? Let's look at the world's greatest (free) static site builders.   
+      Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
+- **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
+    - Test your styling sense. Fun guaranteed ;-)   
+      Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam, now lives in Vienna running the sektor5 coworking space. When Floor grows up she wants to become Neelie Kroes.
+- **XSL/T - Generating Static Sites Like It's 1999** by [Sebastian Gräßl](http://bastilian.me)
+    - Bio: Sebastian Gräßl is a social network addict; information junkie; part time party-goer; working at @EngineYard; music freak; i'm a pirate.
 
 
 ### News
