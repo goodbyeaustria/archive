@@ -1,0 +1,11 @@
+
+markdown: kramdown
+
+###
+# note: input GFM allows backticks e.g. ``` for codeblocks
+#   also turns on hard line breaks e.g. every newline is a hard line break <br>; use hard_wrap to turn it off
+#   see http://kramdown.gettalong.org/parser/gfm.html
+
+kramdown:
+  input: GFM
+  hard_wrap: false
