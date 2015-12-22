@@ -20,7 +20,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 ![](i/sektor5map.jpg)
 
 - **Building Page Layouts with Susy Grid** by [Bernhard Benke](http://ultrasmall.at)
-    - Bio: Bernhard Benke is a web developer at Virtual Identity (née vi knallgrau) building web sites in Drupal and WordPres as a member of the content management systems team "The Walking Dev".  Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
+    - Bio: Bernhard Benke is a web developer at [Virtual Identity](http://virtual-identity.com) (née vi knallgrau) building web sites in Drupal and WordPress as a member of the content management systems team "The Walking Dev".  Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
     - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
 - _Your Talk Here_
