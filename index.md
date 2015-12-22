@@ -21,7 +21,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 - **Building Page Layouts with Susy Grid** by [Bernhard Benke](https://github.com/spuz)
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](https://github.com/mxstbr)  (To be confirmed)
-    - Bio: Max Stoiber (web: [mxstbr.com](http://mxstbr.com)) Skiing Instructor - Barista -️ Freelance Front-d 
+    - Bio: Max Stoiber (web: [mxstbr.com](http://mxstbr.com)) Front-End Developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a SCAE certified Barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee.  Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
