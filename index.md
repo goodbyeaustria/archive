@@ -20,6 +20,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 ![](i/sektor5map.jpg)
 
 - **Building Page Layouts with Susy Grid** by [Bernhard Benke](https://github.com/spuz)
+- **Using PostCSS with Static Site Builders** by [Max Stoiber](https://twitter.com/mxstbr)  (To be confirmed)
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
