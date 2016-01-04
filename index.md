@@ -23,6 +23,8 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
     - Bio: Bernhard Benke is a web developer at [Virtual Identity](http://virtual-identity.com) (née vi knallgrau) building web sites in Drupal and WordPress as a member of the content management systems team "The Walking Dev".  Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
     - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
+- **Using Markdown (HTML "Shortcodes" in Plain Vanilla Text) with the kramdown Library and Tools** by [Thomas Leitner](https://github.com/gettalong)
+    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
