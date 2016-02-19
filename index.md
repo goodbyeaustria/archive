@@ -20,7 +20,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 ![](i/sektor5map.jpg)
 
 - **Building Page Layouts with Susy Grid** by [Bernhard Benke](http://ultrasmall.at)
-    - Bio: Bernhard Benke is a web developer at [Virtual Identity](http://virtual-identity.com) (née vi knallgrau) building web sites in Drupal and WordPress as a member of the content management systems team "The Walking Dev".  Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
+    - Bio: Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com/). Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
 - **Using Markdown (HTML "Shortcodes" in Plain Vanilla Text) with the kramdown Library and Tools** by [Thomas Leitner](https://github.com/gettalong)
     - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
 - **Building Books with Gutenberg - a Web Typography Starter Kit - and Jekyll - a Static Site Builder** by [Gerald Bauer](https://github.com/geraldb)
