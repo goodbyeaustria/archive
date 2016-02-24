@@ -6,7 +6,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
+[Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
 
 **World's 1st Dr. Jekyll Walk-In Clinic - Any static site questions or troubles?**
 
