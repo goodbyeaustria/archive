@@ -10,7 +10,7 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 **World's 1st Dr. Jekyll Walk-In Clinic - Any static site questions or troubles?**
 
-[Ask Dr. Jekyll](https://github.com/viennahtml/members/issues/13) and get free advice and in-person answers at the next meetup.
+[Ask Dr. Jekyll on "our wall"](https://github.com/viennahtml/members/issues/13) and get free advice and in-person answers at the next meetup.
 
 
 # Vienna.html
