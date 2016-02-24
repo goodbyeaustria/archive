@@ -4,6 +4,11 @@ layout: default
 
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
 
+**Talks, talks, talks - Bring your mini talk!**  
+
+Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
+
+
 
 # Vienna.html
 
