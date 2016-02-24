@@ -78,9 +78,11 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
 
-
-
-- Thanks for joining the 1st meetup. Find the "[The World's Greatest (Free) Static Site Builders / Generators](http://slideshow-s9.github.io/demos/staticgen.html)" slides online.
+- March/3rd - Talk: Stay Static - Jekyll vs. Middleman - Free. Everyone Welcome. Join us. [@viennarb](https://twitter.com/viennarb)
+- Thu Feb/25th - Metalab.js Lightning Talks (Incl. Metalsmith)  - Free. Everyone Welcome. Join us. [@MetalabVie](https://twitter.com/MetalabVie)
+- Thanks for joining the 2nd metup. Source for the [Susy v2 Live Grid Demo](https://github.com/spuz/susy-grid-demo) by Bernhard Benke (@spuz78).  Great talk and intro to @SassSusy. Thanks.
+- Find the "[Using Markdown with the kramdown tools and library](http://talks.gettalong.org/2016-02-vienna-html)" by Thomas Leitner (@_gettalong) slides online.
+- Thanks for joining the 1st meetup. Find the "[The World's Greatest (Free) Static Site Builders / Generators](http://slideshow-s9.github.io/demos/staticgen.html)" slides by Gerald Bauer online.
 - Thanks to [@viennarb](https://twitter.com/viennarb) for organizing. Great talks. Find the "[Dr Jekyll and Mr Hyde: Build Static Sites with Ruby](http://slideshow-s9.github.io/demos/drjekyll.html)" slides online.
 - Talk: Dr. Jekyll and Mr. Hyde: The Missing Package Manager by Gerald Bauer at [Vienna.rb on Thu Oct/15](http://www.meetup.com/vienna-rb/events/225097350). Join us. Free.
 - Thanks to [@viennajs](https://twitter.com/viennajs) for organizing. Great talks. Find the "[Add Anchor Links to Your Static Site](http://slideshow-s9.github.io/demos/anchor.html)" slides online.
