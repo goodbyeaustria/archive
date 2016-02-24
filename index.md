@@ -13,25 +13,25 @@ Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith & Frie
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, February 23rd starting at 18.30**   
+When:    **Tuesday, April 26th starting at 18.30**   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
 ![](i/sektor5map.jpg)
 
-- **Building Page Layouts with Susy Grid** by [Bernhard Benke](http://ultrasmall.at)
-    - Bio: Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com/). Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
-- **Using Markdown (HTML "Shortcodes" in Plain Vanilla Text) with the kramdown Library and Tools** by [Thomas Leitner](https://github.com/gettalong)
-    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
-- **Building Books with Gutenberg - a Web Typography Starter Kit - and Jekyll - a Static Site Builder** by [Gerald Bauer](https://github.com/geraldb)
-    - Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
+
+- **Static site generating for podcasting with Octopress** by [Stefan Haslinger](https://twitter.com/informatom)
+   - Bio: Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer, Physicist, Mathematician, Astronomer, Biertaucher Podcaster
+   - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
+- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
+    - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/9) or open a new ticket. New speakers welcome.
+Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
 
 
 ### Join us
@@ -43,17 +43,22 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 ## Upcoming meetups
 
-#### \#3 - Tuesday,  April 
-
-- **Static site generating for podcasting with Octopress** by [Stefan Haslinger](https://twitter.com/informatom)
-   - Bio: Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer, Physicist, Mathematician, Astronomer, Biertaucher Podcaster
-   - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
-
-- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
-    - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
+#### \#4 - Tuesday, June 28th
 
 
 ### Past meetups
+
+**2016**
+
+#### \#2 - Tuesday, February 23rd
+
+- **Building Page Layouts with Susy Grid** by [Bernhard Benke](http://ultrasmall.at)
+    - Bio: Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com/). Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
+- **Using Markdown (HTML "Shortcodes" in Plain Vanilla Text) with the kramdown Library and Tools** by [Thomas Leitner](https://github.com/gettalong)
+    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
+- **Building Books with Gutenberg - a Web Typography Starter Kit - and Jekyll - a Static Site Builder** by [Gerald Bauer](https://github.com/geraldb)
+    - Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
+
 
 **2015**
 
@@ -72,6 +77,8 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 ### News
 
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
+
+
 
 - Thanks for joining the 1st meetup. Find the "[The World's Greatest (Free) Static Site Builders / Generators](http://slideshow-s9.github.io/demos/staticgen.html)" slides online.
 - Thanks to [@viennarb](https://twitter.com/viennarb) for organizing. Great talks. Find the "[Dr Jekyll and Mr Hyde: Build Static Sites with Ruby](http://slideshow-s9.github.io/demos/drjekyll.html)" slides online.
