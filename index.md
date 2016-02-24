@@ -2,6 +2,9 @@
 layout: default
 ---
 
+Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
+
+
 # Vienna.html
 
 **Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč**
