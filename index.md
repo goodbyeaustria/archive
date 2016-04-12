@@ -37,8 +37,6 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 - **Real World Static Site Show Case - [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
   - Bio: Richard Traindl is a product manager by day and html & css wrangler by night. 
   - Summary: A insight look at a small business website for a veterinary practice in Vienna built using the Jekyll static site builder; uses a JavaScript picture gallery and includes some breakpoints for a (simple) hand-coded responsive (mobile) design.  
-- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
-    - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
@@ -58,6 +56,9 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 ## Upcoming meetups
 
 #### \#4 - Tuesday, June 28th
+
+- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
+    - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.
 
 
 ### Past meetups
