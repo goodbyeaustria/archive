@@ -36,6 +36,10 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
    - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)  (To be confirmed)
     - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.  
+- **Real World Static Site Show Case [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
+  - Bio: Richard Traindl is a product manager by day and html & css wrangler by night. 
+  - Summary: A insight look at a small business website for a veterinary practice in Vienna built using the Jekyll static site builder; uses a JavaScript picture gallery and includes some breakpoints for a (simple) hand-coded responsive design.  
+
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
