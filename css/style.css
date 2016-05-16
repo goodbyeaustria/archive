@@ -5,6 +5,13 @@ html {
   line-height: 1.5;
 }
 
+/* make when (that is, date) it 4x as big - why? why not?
+.when {
+  display: inline-block;
+  font-size: 400%;
+  background-color: yellow;   /* highlight date */
+}
+
 body {
   color: #515151;
   background-color: #fff;
