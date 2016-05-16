@@ -9,6 +9,7 @@ html {
 .when {
   display: inline-block;
   font-size: 280%;
+  padding: 10px;
   background-color: #fffeca;   /* highlight date */
 }
 
