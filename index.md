@@ -8,23 +8,20 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
 
-**World's 1st Dr. Jekyll Walk-In Clinic - Any static site questions or troubles?**
-
-[Ask Dr. Jekyll on "our wall"](https://github.com/viennahtml/members/issues/13) and get free advice and in-person answers at the next meetup.
 
 
 # Vienna.html
 
 **Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč**
 
-Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
+Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Gatsby & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
 ### Next meetup in 2016
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, June 28th starting at 18.30**   
+When:    **Tuesday, June 28th starting at 18.30**{.when}   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
