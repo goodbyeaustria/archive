@@ -21,7 +21,7 @@ Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Ga
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, June 28th starting at 18.30**{.when}   
+When:    **Tuesday, June 28th starting at 18.30**{:.when}   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
