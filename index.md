@@ -29,9 +29,9 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)
   - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.
-- **Reals World Static Site Showcase - Inside ColorSnapper - Changelog Generation w/ Metalsmith.js and a Custom Plugin** by [Andrey Okonetchnikov](http://okonet.ru) (To be confirmed)
+- **Real World Static Site Showcase - Inside ColorSnapper - Changelog Generation w/ Metalsmith.js and a Custom Plugin** by [Andrey Okonetchnikov](http://okonet.ru) (To be confirmed)
   - Bio: Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria. Andrey has been working as a web-professional since 1999. 
-  - Summary: An insight look about a hand-crafted Metalsmith plugin, that is, [`metalsmith-remote-json-to-files`](https://github.com/okonet/metalsmith-remote-json-to-files ) that lets you fetch JSON from remote URLs, transform and inject as files into the metalsmith pipeline and how it gets used to automate the changelog generation for the [ColorSnapper](http://colorsnapper.com) site.
+  - Summary: An insight look about a hand-crafted Metalsmith plugin, that is, [`metalsmith-remote-json-to-files`](https://github.com/okonet/metalsmith-remote-json-to-files ) that lets you fetch JSON from remote URLs, transform and inject as files into the metalsmith pipeline and how it gets used to automate the [changelog](http://colorsnapper.com/changelog) generation for the [ColorSnapper](http://colorsnapper.com) site.
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
