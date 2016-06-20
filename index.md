@@ -42,6 +42,9 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 Loves to highlight the underdog, beer and talking endlessly. 
 Chris originally a Londoner spent seven years in Melbourne and now lives in Berlin.
   - Summary: An insight look on how to build a [print-at-home Chip Shop (offline) board game](http://www.chrischinchilla.com/print-at-home-chip-shop-released) with printed paper cards (72 products, 76 events and 36 personalities) that let you run a computer company in the 80's to build your silicon empire. Learn how to turn [cards in markdown files](https://github.com/GregariousMammal/Chip-Shop) as used on the game website into [high-quality printable PDFs](http://www.chrischinchilla.com/creating-a-game-with-markdown-pandoc-latex-and-pdfjam) for a premium pre-boxed or print-yourself card deck version and much more.
+- **Why you would (not) want to build your own static site generator** by [Matthias Beitl](http://cssence.com)
+  - Bio: Matthias Beitl gets paid for technical consulting, which tends to be rather fuzzy. To combat this, he manages to sneak in some tangible web development whenever possible. He really likes the web, his first site went online in 1998, at a time when having a tilde in the URL was the norm. IRL hobbies include coffee and ducks, in that order.
+  - Summary: It's a brave new world of static site generators out there. So why would you write your own when [this is your competition](http://www.staticgen.com)? We'll look into the pros and cons. And pitfalls.
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
