@@ -17,11 +17,14 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Gatsby & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
+Enjoy the summer. 
+
+
 ### Next meetup in 2016
 
 Free. Everyone Welcome.
 
-When:    **Tuesday, June 28th**{:.when} **starting at 18.30**   
+When:    **Back after the summer break**{:.when}     <!-- **starting at 18.30**   -->
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -121,7 +124,9 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 - Talk: Add Anchor Links to Your (Static) Website w/ Anchor.js by Gerald Bauer at [Vienna.js on Wed Sep/30](http://www.meetup.com/viennajs/events/220339170). Join us. Free.
 
 
-### More Groups in Vienna, Austria
+### More Groups
+
+#### In Vienna, Austria
 
 [Vienna.js](http://meetup.com/viennajs) •
 [Vienna React.js](http://meetup.com/Vienna-ReactJS-Meetup) •
@@ -135,21 +140,22 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 See the [Awesome Austria](https://github.com/viennahtml/awesome-austria) page for more.
 
 
-### More Groups in the World
+#### In the World
 
 [Static Web Tech](http://www.staticwebtech.com) @ San Francisco, California  •
 [{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) @ New York City, New York
 
 
-## Thank You - Sponsors
 
-### Space / Hosting
+### Thank You - Sponsors
+
+#### Space / Hosting
 
 [sektor5](http://www.sektor5.at) -- coworking space for creatives & startups. 
 grab a table and join vienna's premier coworking space!
 
-### Drinks
+#### Drinks
 
 June + April 2016: [BD Swiss](http://careers.bdswiss.com) -- BDSwiss has web job openings in the Vienna office.
 
-February 2016: []() -- 
+February 2016: [Super-Fi](http://derstandard.at/karriere/jobsuche/jobs/206611/frontend-developer) -- Super-Fi is looking for frontend developer.
