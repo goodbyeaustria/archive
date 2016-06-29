@@ -6,7 +6,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-[Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
+[Post your talk on "our wall"](https://github.com/viennahtml/members/issues/19) or open a new ticket. New speakers welcome.
 
 
 
@@ -24,7 +24,7 @@ Enjoy the summer.
 
 Free. Everyone Welcome.
 
-When:    **Back after the summer break**{:.when}     <!-- **starting at 18.30**   -->
+When:    **Fall 2016**{:.when}     <!-- **starting at 18.30**   -->
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -37,7 +37,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/11) or open a new ticket. New speakers welcome.
+Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/19) or open a new ticket. New speakers welcome.
 
 
 ### Join us
