@@ -24,7 +24,7 @@ Enjoy the summer.
 
 Free. Everyone Welcome.
 
-When:    **Fall 2016**{:.when}     <!-- **starting at 18.30**   -->
+When:    **Back in Fall 2016**{:.when}     <!-- **starting at 18.30**   -->
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -149,13 +149,13 @@ See the [Awesome Austria](https://github.com/viennahtml/awesome-austria) page fo
 
 ### Thank You - Sponsors
 
-#### Space / Hosting
-
-[sektor5](http://www.sektor5.at) -- coworking space for creatives & startups. 
-grab a table and join vienna's premier coworking space!
-
 #### Drinks
 
 June + April 2016: [BD Swiss](http://careers.bdswiss.com) -- BDSwiss has web job openings in the Vienna office.
 
-February 2016: [Super-Fi](http://derstandard.at/karriere/jobsuche/jobs/206611/frontend-developer) -- Super-Fi is looking for frontend developer.
+February 2016: [Super-Fi](http://derstandard.at/karriere/jobsuche/vice-cee-super-fi) -- Super-Fi is looking for frontend developers in the Vienna office.
+
+#### Space / Hosting
+
+[sektor5](http://www.sektor5.at) -- coworking space for creatives & startups. 
+grab a table and join vienna's premier coworking space!
