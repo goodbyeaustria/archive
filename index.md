@@ -27,24 +27,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 ![](i/sektor5map.jpg)
 
-- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)
-  - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.
-- **5-Minute Lightning Talk - Building Static Sites w/ Metalsmith.js - Everything is a Plugin** by [Gerald Bauer](https://github.com/geraldb)
-  - Summary: A [short 5-minute intro to Metalsmith.js](https://github.com/geraldb/talks/blob/master/metalsmith.md) for Andrey's talk.
-- **Real World Static Site Showcase I - Inside ColorSnapper - Changelog Generation w/ Metalsmith.js and a Custom Plugin** by [Andrey Okonetchnikov](http://okonet.ru)
-  - Bio: Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria. Andrey has been working as a web-professional since 1999. 
-  - Summary: An insight look about a hand-crafted Metalsmith plugin, that is, [`metalsmith-remote-json-to-files`](https://github.com/okonet/metalsmith-remote-json-to-files ) that lets you fetch JSON from remote URLs, transform and inject as files into the metalsmith pipeline and how it gets used to automate the [changelog](http://colorsnapper.com/changelog) generation for the [ColorSnapper](http://colorsnapper.com) site.
-- **Real World Static Site Showcase II - Inside Contentful - Turn Your Blog Posts into Facebook Instant Articles w/ Middleman** by [Rouven Weßling](https://twitter.com/rouvenwessling) [(Contentful)](https://contentful.com)
-  - Bio: Rouven Weßling is a Joomla! developer turned front-end developer and is now a developer evangelist for Contentful. When not programming you most likely find Rouven eating cake or running on the streets of Berlin (so he can eat more cake).
-  - Summary: [Facebook Instant Articles](https://instantarticles.fb.com) is a new way for any publisher - including you ;-) - to create fast, interactive articles on (mobile) Facebook.  Rouven will show how you can prepare and auto-build Facebook Instant Articles web feeds (in RSS) from your blog stories (in Markdown) with  the Middleman static site builder as [working live on the Contentful blog](https://www.contentful.com/blog/2016/05/13/facebook-instant-articles-and-contentful). Rouven will discuss alternative strategies and go through some of the possibilities and limitations of Facebook Instant Articles. PS: Rouven will start off with a short intro about [what's Contentful anyways?](https://contentful.com) And how you can use the Contentful service to manage your (static site) content.
-- **Real World Static Site Showcase III - Inside Chip Shop - Build Your Silicon Empire - Build A Cards Game w/ Jekyll (n Markdown)** by [Chris Ward](http://www.chrischinchilla.com)
-  - Bio: Chris Ward is an open advocate working on software, organisations, books and games. 
-Loves to highlight the underdog, beer and talking endlessly. 
-Chris originally a Londoner spent seven years in Melbourne and now lives in Berlin.
-  - Summary: An insight look on how to build a [print-at-home Chip Shop (offline) board game](http://www.chrischinchilla.com/print-at-home-chip-shop-released) with printed paper cards (72 products, 76 events and 36 personalities) that let you run a computer company in the 80's to build your silicon empire. Learn how to turn [cards in markdown files](https://github.com/GregariousMammal/Chip-Shop) as used on the game website into [high-quality printable PDFs](http://www.chrischinchilla.com/creating-a-game-with-markdown-pandoc-latex-and-pdfjam) for a premium pre-boxed or print-yourself card deck version and much more.
-- **Why you would (not) want to build your own static site generator** by [Matthias Beitl](http://cssence.com)
-  - Bio: Matthias Beitl gets paid for technical consulting, which tends to be rather fuzzy. To combat this, he manages to sneak in some tangible web development whenever possible. He really likes the web, his first site went online in 1998, at a time when having a tilde in the URL was the norm. IRL hobbies include coffee and ducks, in that order.
-  - Summary: It's a brave new world of static site generators out there. So why would you write your own when [this is your competition](http://www.staticgen.com)? We'll look into the pros and cons. And pitfalls.
+
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
@@ -65,9 +48,29 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 ## Upcoming meetups
   -->
 
+
 ### Past meetups
 
 **2016**
+
+#### \#4 - Tuesday, June 28th
+
+- **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)
+  - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.
+- **Real World Static Site Showcase I - Inside ColorSnapper - Changelog Generation w/ Metalsmith.js and a Custom Plugin** by [Andrey Okonetchnikov](http://okonet.ru)
+  - Bio: Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria. Andrey has been working as a web-professional since 1999. 
+  - Summary: An insight look about a hand-crafted Metalsmith plugin, that is, [`metalsmith-remote-json-to-files`](https://github.com/okonet/metalsmith-remote-json-to-files ) that lets you fetch JSON from remote URLs, transform and inject as files into the metalsmith pipeline and how it gets used to automate the [changelog](http://colorsnapper.com/changelog) generation for the [ColorSnapper](http://colorsnapper.com) site.
+- **Real World Static Site Showcase II - Inside Contentful - Turn Your Blog Posts into Facebook Instant Articles w/ Middleman** by [Rouven Weßling](https://twitter.com/rouvenwessling) [(Contentful)](https://contentful.com)
+  - Bio: Rouven Weßling is a Joomla! developer turned front-end developer and is now a developer evangelist for Contentful. When not programming you most likely find Rouven eating cake or running on the streets of Berlin (so he can eat more cake).
+  - Summary: [Facebook Instant Articles](https://instantarticles.fb.com) is a new way for any publisher - including you ;-) - to create fast, interactive articles on (mobile) Facebook.  Rouven will show how you can prepare and auto-build Facebook Instant Articles web feeds (in RSS) from your blog stories (in Markdown) with  the Middleman static site builder as [working live on the Contentful blog](https://www.contentful.com/blog/2016/05/13/facebook-instant-articles-and-contentful). Rouven will discuss alternative strategies and go through some of the possibilities and limitations of Facebook Instant Articles. PS: Rouven will start off with a short intro about [what's Contentful anyways?](https://contentful.com) And how you can use the Contentful service to manage your (static site) content.
+- **Real World Static Site Showcase III - Inside Chip Shop - Build Your Silicon Empire - Build A Cards Game w/ Jekyll (n Markdown)** by [Chris Ward](http://www.chrischinchilla.com)
+  - Bio: Chris Ward is an open advocate working on software, organisations, books and games. 
+Loves to highlight the underdog, beer and talking endlessly. 
+Chris originally a Londoner spent seven years in Melbourne and now lives in Berlin.
+  - Summary: An insight look on how to build a [print-at-home Chip Shop (offline) board game](http://www.chrischinchilla.com/print-at-home-chip-shop-released) with printed paper cards (72 products, 76 events and 36 personalities) that let you run a computer company in the 80's to build your silicon empire. Learn how to turn [cards in markdown files](https://github.com/GregariousMammal/Chip-Shop) as used on the game website into [high-quality printable PDFs](http://www.chrischinchilla.com/creating-a-game-with-markdown-pandoc-latex-and-pdfjam) for a premium pre-boxed or print-yourself card deck version and much more.
+- **Why you would (not) want to build your own static site generator** by [Matthias Beitl](http://cssence.com)
+  - Bio: Matthias Beitl gets paid for technical consulting, which tends to be rather fuzzy. To combat this, he manages to sneak in some tangible web development whenever possible. He really likes the web, his first site went online in 1998, at a time when having a tilde in the URL was the norm. IRL hobbies include coffee and ducks, in that order.
+  - Summary: It's a brave new world of static site generators out there. So why would you write your own when [this is your competition](http://www.staticgen.com)? We'll look into the pros and cons. And pitfalls.
 
 #### \#3 - Tuesday, April 26th
 
@@ -121,14 +124,32 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 ### More Groups in Vienna, Austria
 
 [Vienna.js](http://meetup.com/viennajs) •
+[Vienna React.js](http://meetup.com/Vienna-ReactJS-Meetup) •
 [Vienna.rb](http://vienna-rb.at) •
 [Vienna Ruby Habits](http://meetup.com/RubyHabits) •
 [Vienna PHP](http://meetup.com/viennaphp) •
 [WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup) •
 [Python Austria](http://pyug.at) •
-[Vienna UX & Design](http://meetup.com/uxwien)
+[Vienna UX & Design](http://meetup.com/uxwien) 
+
+See the [Awesome Austria](https://github.com/viennahtml/awesome-austria) page for more.
+
 
 ### More Groups in the World
 
 [Static Web Tech](http://www.staticwebtech.com) @ San Francisco, California  •
 [{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) @ New York City, New York
+
+
+## Thank You - Sponsors
+
+### Space / Hosting
+
+[sektor5](http://www.sektor5.at) -- coworking space for creatives & startups. 
+grab a table and join vienna's premier coworking space!
+
+### Drinks
+
+June + April 2016: [BD Swiss](http://careers.bdswiss.com) -- BDSwiss has web job openings in the Vienna office.
+
+February 2016: []() -- 
