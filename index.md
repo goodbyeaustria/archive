@@ -52,9 +52,9 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
   -->
 
 
-### Upcoming talks -- To be confirmed
+### Upcoming talks
 
-Real World Static Site Showcase Series
+Real World Static Site Showcase Series  -- To be confirmed
 
 - **Middleman in Action - Inside ChillBill** by [Clemens Helm](https://twitter.com/clemenshelm) [(ChillBill)](https://chillbill.co)
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
