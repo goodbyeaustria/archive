@@ -86,7 +86,7 @@ Chris originally a Londoner spent seven years in Melbourne and now lives in Berl
 
 #### \#3 - Tuesday, April 26th
 
-- **Static site generating for podcasting with Octopress** by [Stefan Haslinger](https://twitter.com/informatom), [Aua-Uff-Code Podcast](https://aua-uff-co.de) [(Source)](https://github.com/aua-uff-code/aua-uff-co.de)
+- **Static site generating for podcasting with Octopress** by [Stefan Haslinger](https://twitter.com/informatom), [Aua-Uff-Code Podcast](https://aua-uff-co.de) [(Site Source)](https://github.com/aua-uff-code/aua-uff-co.de)
    - Bio: Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer, Physicist, Mathematician, Astronomer, Biertaucher Podcaster
    - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
 - **Real World Static Site Show Case - [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Site Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
