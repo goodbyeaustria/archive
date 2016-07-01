@@ -58,7 +58,7 @@ Real World Static Site Showcase Series  -- To be confirmed
 
 - **Middleman in Action - Inside ChillBill** by [Clemens Helm](https://twitter.com/clemenshelm) [(ChillBill)](https://chillbill.co)
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
-- **Jekyll in Action - Inside Travis Foundation** [(Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
+- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 
 
 ### Past meetups
@@ -89,7 +89,7 @@ Chris originally a Londoner spent seven years in Melbourne and now lives in Berl
 - **Static site generating for podcasting with Octopress** by [Stefan Haslinger](https://twitter.com/informatom), [Aua-Uff-Code Podcast](https://aua-uff-co.de) [(Source)](https://github.com/aua-uff-code/aua-uff-co.de)
    - Bio: Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer, Physicist, Mathematician, Astronomer, Biertaucher Podcaster
    - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
-- **Real World Static Site Show Case - [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
+- **Real World Static Site Show Case - [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Site Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
   - Bio: Richard Traindl is a product manager by day and html & css wrangler by night. 
   - Summary: A insight look at a small business website for a veterinary practice in Vienna built using the Jekyll static site builder; uses a JavaScript picture gallery and includes some breakpoints for a (simple) hand-coded responsive (mobile) design.  
 
