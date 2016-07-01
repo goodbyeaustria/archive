@@ -56,9 +56,9 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 Real World Static Site Showcase Series
 
-- **Inside ChillBill - Using Middleman** by [Clemens Helm](https://twitter.com/clemenshelm) [(ChillBill)](https://chillbill.co)
-- **Inside Usersnap - Using Hugo** by N.N. [(Usersnap)](https://usersnap.com)
-- **Inside Travis Foundation - Using Jekyll** [(Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
+- **Middleman in Action - Inside ChillBill** by [Clemens Helm](https://twitter.com/clemenshelm) [(ChillBill)](https://chillbill.co)
+- **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
+- **Jekyll in Action - Inside Travis Foundation** [(Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 
 
 ### Past meetups
