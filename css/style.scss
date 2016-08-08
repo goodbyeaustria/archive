@@ -1,3 +1,6 @@
+---
+### note: will result in an all-in-one-file stylesheet e.g. style.css
+---
 
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
@@ -45,3 +48,6 @@ h1, h2, h3 {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+@import 'sharingbuttons';
