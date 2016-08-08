@@ -135,7 +135,9 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 ### Share
 
-{% include sharingbuttons.html %}
+<div class="share">
+  {% include sharingbuttons.html %}
+</div>
 
 
 ### More Groups
