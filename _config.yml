@@ -9,3 +9,8 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+
+sass:
+  sass_dir: css
+  style:    expanded
