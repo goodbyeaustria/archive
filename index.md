@@ -133,6 +133,11 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 - Talk: Add Anchor Links to Your (Static) Website w/ Anchor.js by Gerald Bauer at [Vienna.js on Wed Sep/30](http://www.meetup.com/viennajs/events/220339170). Join us. Free.
 
 
+### Share
+
+{% include sharingbuttons.html %}
+
+
 ### More Groups
 
 #### In Vienna, Austria
