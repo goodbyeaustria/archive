@@ -24,7 +24,7 @@ Enjoy the summer.
 
 Free. Everyone Welcome.
 
-When:    **Wednesday, October 19th**{:.when}      **starting at 18.30**   
+When:    **Wed, October 19th**{:.when}  **starting at 18.30**
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
