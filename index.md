@@ -24,7 +24,7 @@ Enjoy the summer.
 
 Free. Everyone Welcome.
 
-When:    **Wed, October 19th**{:.when}  **starting at 18.30**
+When:    **Wed, October 19th**{:.when}  **starting at 18.30**  <br>
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -56,7 +56,6 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 Real World Static Site Showcase Series  -- To be confirmed
 
-- **Middleman in Action - Inside ChillBill** by [Clemens Helm](https://twitter.com/clemenshelm) [(ChillBill)](https://chillbill.co)
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
 - **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 
