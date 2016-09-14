@@ -24,7 +24,7 @@ Enjoy the summer.
 
 Free. Everyone Welcome.
 
-When:    **Back in Fall 2016**{:.when}     <!-- **starting at 18.30**   -->
+When:    **Wednesday, October 19th**{:.when}      **starting at 18.30**   
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -47,10 +47,10 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 [Add Members Here]
 
 
-<!--
-## Upcoming meetups
-  -->
 
+## Upcoming meetups
+
+\#6 - Wednesday, November 23rd (last before the new year 2017)
 
 ### Upcoming talks
 
