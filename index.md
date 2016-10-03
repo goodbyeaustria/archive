@@ -31,6 +31,8 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 ![](i/sektor5map.jpg)
 
 
+- **Getting Started w/ Athena - A minimalist, light-weight static blog generator written in Python (based on Flask and Tufte CSS)** by [Apostolos Papadopoulos](https://github.com/apas)
+    - [Athena](https://github.com/apas/athena) is the simplest, yet aesthetically pure, static blog generator with paramount focus on the reading experience. Apas has been a WordPress user since 2007 and think it's time for a change. Other static blog generators are too feature-heavy and bloated. Learn why Athena just works. Athena includes Tufte CSS known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography. 
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
@@ -52,13 +54,15 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 \#6 - Wednesday, November 23rd (last before the new year 2017)
 
+- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
+
+
+
 ### Upcoming talks
 
 Real World Static Site Showcase Series  -- To be confirmed
 
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
-- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
-
 
 ### Past meetups
 
