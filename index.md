@@ -33,6 +33,8 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 - **Getting Started w/ Athena - A minimalist, light-weight static blog generator written in Python (based on Flask and Tufte CSS)** by [Apostolos Papadopoulos](https://github.com/apas)
     - [Athena](https://github.com/apas/athena) is the simplest, yet aesthetically pure, static blog generator with paramount focus on the reading experience. Apas has been a WordPress user since 2007 and think it's time for a change. Other static blog generators are too feature-heavy and bloated. Learn why Athena just works. Athena includes Tufte CSS known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography. 
+- **Jekyll (n GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
+    - Covers Gem-Packaged Themes, Web Admin, Minimal Mistakes (the new "Octopress" all-inclusive theme 'n' setup) 'n' More 
 - _Your Talk Here_
 - _Your Talk Here_
 - Discussion & Questions
