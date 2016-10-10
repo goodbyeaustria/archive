@@ -17,7 +17,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Gatsby & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
-Enjoy the summer. 
+We're back! Join us.
 
 
 ### Next meetup in 2016
