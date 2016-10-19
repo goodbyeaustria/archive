@@ -57,9 +57,7 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 
 
-### Upcoming talks
-
-Real World Static Site Showcase Series  -- To be confirmed
+### Upcoming talks - To be confirmed
 
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
 - **Getting Started w/ Athena - A minimalist, light-weight static blog generator written in Python (based on Flask and Tufte CSS)** by [Apostolos Papadopoulos](https://github.com/apas)
