@@ -6,7 +6,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-[Post your talk on "our wall"](https://github.com/viennahtml/members/issues/19) or open a new ticket. New speakers welcome.
+[Post your talk on "our wall"](https://github.com/viennahtml/members/issues/22) or open a new ticket. New speakers welcome.
 
 
 
@@ -24,12 +24,13 @@ We're back! Join us.
 
 Free. Everyone Welcome.
 
-When:    **Wed, October 19th**{:.when}  **starting at 18.30**  <br>
+When:    **Wed, November 23rd**{:.when}  **starting at 18.30** (last before the new year 2017) <br>
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
 ![](i/sektor5map.jpg)
 
+- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 - **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
     - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
 - _Your Talk Here_
@@ -38,23 +39,20 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 **Talks, talks, talks - Bring your mini talk!**  
 
-Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/19) or open a new ticket. New speakers welcome.
+Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/22) or open a new ticket. New speakers welcome.
 
 
 ### Join us
 
 [Add yourself to the Vienna.html Members Directory](https://github.com/viennahtml/members) - free; no database required - just some YAML ;-)
 
+<!--
 [Add Members Here]
+  -->
 
-
-
+<!--
 ## Upcoming meetups
-
-\#6 - Wednesday, November 23rd (last before the new year 2017)
-
-- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
-
+ -->
 
 
 ### Upcoming talks - To be confirmed
@@ -67,6 +65,10 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 ### Past meetups
 
 **2016**
+
+#### \#5 - Wednesday, October 19th
+
+- **Getting Started w/ Jekyll ('n' GitHub Pages) - Hello, Jekyll! 'n' Hello, Minima!** by [Gerald Bauer](https://github.com/geraldb)
 
 #### \#4 - Tuesday, June 28th
 
