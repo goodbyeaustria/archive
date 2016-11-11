@@ -30,6 +30,8 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 
 ![](i/sektor5map.jpg)
 
+- **Markdown in Action: Building Courses (incl. Presentations, Pages, Handouts) for the Web and Print (PDF) w/ kramdown (webgen+HexaPDF)** by  [Thomas Leitner](https://github.com/gettalong) - to be confirmed
+    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
 - **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 - **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
     - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
