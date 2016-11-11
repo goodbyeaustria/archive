@@ -31,7 +31,6 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 ![](i/sektor5map.jpg)
 
 - **Markdown in Action: Building Courses (incl. Presentations, Pages, Handouts) for the Web and Print (PDF) w/ kramdown (webgen+Prawn)**  [(Sample Course)](http://www.mat.univie.ac.at/~praxis/sosem16/vorlesung.html) by  [Thomas Leitner](https://github.com/gettalong)
-    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends) and the new [HexaPDF library and tool](http://hexapdf.gettalong.org/) - that let lets you read, write, merge, encrypt, and optimize PDFs and much more.  
     - Summary: How do you create presentation slides for a course and provide the information in various formats? The most obvious way would probably
       be to use a tool like Microsoft PowerPoint or LibreOffice Impress which can export the slides as handouts. However, this is a manual process
       where some steps can be forgotten. And the whole thing is not really web friendly.
@@ -48,6 +47,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
       In this talk Thomas will show you how to combine the static website
       generator webgen, the Markdown library kramdown and the PDF generation
       library Prawn to do these things.
+    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends) and the new [HexaPDF library and tool](http://hexapdf.gettalong.org/) - that let lets you read, write, merge, encrypt, and optimize PDFs and much more.  
 
 - **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
 - **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
