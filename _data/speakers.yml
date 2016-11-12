@@ -1,0 +1,15 @@
+###
+#  datafile listing all speakers (use lookup by key e.g. speakers[key]
+
+thomas.leithner:
+  name:   Thomas Leitner
+  github: gettalong
+  bio: | 
+    add bio here
+
+laura.gaetano:
+  name:   Laura Gaetano
+  github: alicetragedy
+  bio: |
+    add bio here
+
