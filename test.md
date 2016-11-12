@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+<!-- todo/fix: move to sandbox @ planetjekyll - why? why not?
+    or use test/  folder here
+  -->
+
 some text here
 
 {% include_relative test_header.md %}
