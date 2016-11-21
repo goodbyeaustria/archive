@@ -24,7 +24,7 @@ We're back! Join us.
 
 Free. Everyone Welcome.
 
-When:    **Wed, November 23rd**{:.when}  **starting at 18.30** (last before the new year 2017) <br>
+When:    **Tue, November 22nd**{:.when}  **starting at 18.30** (last before the new year 2017) <br>
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
