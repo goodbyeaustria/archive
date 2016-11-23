@@ -1,13 +1,12 @@
 
-> Note: Talk by Laura Gaetano ([@alicetragedy](https://twitter.com/alicetragedy)) 
+> Note: Vienna.html Talk #6 by Laura Gaetano ([@alicetragedy](https://twitter.com/alicetragedy)) 
 > converted (by "hand") from PDF to Markdown. 
 > Thanks Laura!
 
 
-title: Inside Travis Foundation
+# Inside Travis Foundation
 
-
-# Contents
+Contents
 
 - Hello, I'm Laura.
 - Travis Foundation Site
