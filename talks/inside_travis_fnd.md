@@ -36,7 +36,7 @@ Contents
 
 # Travis Foundation Site
 
-[add screenshoot]
+![](i/travis-fnd.png)
 
 (Source: [foundation.travis-ci.org](http://foundation.travis-ci.org))
 
@@ -98,7 +98,7 @@ Contents
 ...
 ```
 
-(Source: [_data/projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml)
+(Source: [_data/projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml))
 
 
 # Using data files
@@ -146,7 +146,7 @@ $bp-ml: 960px
 $bp-l: $gridMaxWidth
 ```
 
-(Source: [stylesheets/main.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/main.sass)
+(Source: [stylesheets/main.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/main.sass))
 
 
 # The magic of Sass
@@ -161,7 +161,7 @@ Functions (use built-in functions or create your own)
   @return $result
 ```
 
-(Source: [stylesheets/main.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/main.sass)
+(Source: [stylesheets/main.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/main.sass))
 
 
 # The magic of Sass
@@ -186,7 +186,7 @@ Use inheritance to keep your code DRY
     image: url(/images/rebrand/twitter-icon.svg)
 ```
 
-(Source: [stylesheets/_footer.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/_footer.sass)
+(Source: [stylesheets/_footer.sass](https://github.com/travis-ci/travis-foundation/blob/gh-pages/stylesheets/_footer.sass))
 
 
 # Resources: Jekyll
