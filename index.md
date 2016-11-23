@@ -4,10 +4,11 @@ layout: default
 
 Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the latest updates.
 
+<!--
 **Talks, talks, talks - Bring your mini talk!**  
 
 [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/22) or open a new ticket. New speakers welcome.
-
+-->
 
 
 # Vienna.html
@@ -17,18 +18,60 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Gatsby & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
+<!--
 We're back! Join us.
+-->
 
+Happy New Year. Prosit 2017! We'll be back in spring 2017.
 
-### Next meetup in 2016
+### Next meetup in 2017
 
 Free. Everyone Welcome.
 
+<!--
 When:    **Tue, November 22nd**{:.when}  **starting at 18.30** (last before the new year 2017) <br>
+-->
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
 ![](i/sektor5map.jpg)
+
+- _Your Talk Here_
+- _Your Talk Here_
+- Discussion & Questions
+
+<!--
+**Talks, talks, talks - Bring your mini talk!**  
+
+Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/22) or open a new ticket. New speakers welcome.
+-->
+
+
+### Join us
+
+[Add yourself to the Vienna.html Members Directory](https://github.com/viennahtml/members) - free; no database required - just some YAML ;-)
+
+<!--
+[Add Members Here]
+  -->
+
+<!--
+## Upcoming meetups
+ -->
+
+
+### Upcoming talks - To be confirmed
+
+- **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
+- **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
+    - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
+
+
+### Past meetups
+
+**2016**
+
+#### \#6 - Tuesday, November 22nd
 
 - **Markdown in Action: Building Courses (incl. Presentations, Pages, Handouts) for the Web and Print (PDF) w/ kramdown (webgen+Prawn)**  [(Sample Course)](http://www.mat.univie.ac.at/~praxis/sosem16/vorlesung.html) by  [Thomas Leitner](https://github.com/gettalong)
     - Summary: How do you create presentation slides for a course and provide the information in various formats? The most obvious way would probably
@@ -52,40 +95,7 @@ Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunn
 - **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
   - Covers how to use datafiles (in YAML) e.g. [projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml), how to customize your website theme and more.
   - Bio: Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC), Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd). Likes owls, NASA trivia and Taekwondo. 
-- **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
-    - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
-- _Your Talk Here_
-- _Your Talk Here_
-- Discussion & Questions
 
-**Talks, talks, talks - Bring your mini talk!**  
-
-Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/members/issues/22) or open a new ticket. New speakers welcome.
-
-
-### Join us
-
-[Add yourself to the Vienna.html Members Directory](https://github.com/viennahtml/members) - free; no database required - just some YAML ;-)
-
-<!--
-[Add Members Here]
-  -->
-
-<!--
-## Upcoming meetups
- -->
-
-
-### Upcoming talks - To be confirmed
-
-- **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
-- **Getting Started w/ Athena - A minimalist, light-weight static blog generator written in Python (based on Flask and Tufte CSS)** by [Apostolos Papadopoulos](https://github.com/apas)
-    - [Athena](https://github.com/apas/athena) is the simplest, yet aesthetically pure, static blog generator with paramount focus on the reading experience. Apas has been a WordPress user since 2007 and think it's time for a change. Other static blog generators are too feature-heavy and bloated. Learn why Athena just works. Athena includes Tufte CSS known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography. 
-
-
-### Past meetups
-
-**2016**
 
 #### \#5 - Wednesday, October 19th
 
