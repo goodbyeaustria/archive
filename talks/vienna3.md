@@ -94,13 +94,13 @@ hands-on @ Ruby Habits (every 2nd week); next meetup May 4th @ sektor5
 
 **Vienna React.js** - FREE
 
-The Great Gatsby - Build (Single-Page) Static Sites w/ React.js -- (To be confirmed / planning)
+The Great Gatsby - Build (Single-Page) Static Sites w/ React.js
 
 [More info »](http://meetup.com/Vienna-ReactJS-Meetup)
 
 **Vienna PHP** - FREE
 
-Jigsaw - Build Static Sites w/ PHP -- (To be confirmed / planning)
+Jigsaw - Build Static Sites w/ PHP
 
 [More info »](http://meetup.com/viennaphp)
 
