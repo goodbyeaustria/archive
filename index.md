@@ -92,10 +92,13 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
       library Prawn to do these things.
     - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends) and the new [HexaPDF library and tool](http://hexapdf.gettalong.org/) - that let lets you read, write, merge, encrypt, and optimize PDFs and much more.  
 
-- **Jekyll in Action - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
+- **Jekyll in Action Case Study - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
   - Covers how to use datafiles (in YAML) e.g. [projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml), how to customize your website theme and more.
   - Bio: Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC), Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd). Likes owls, NASA trivia and Taekwondo. 
 
+- **Jekyll in Action Case Study - Inside PunkRockDev.com** [(Site Source)](https://github.com/punkrockdev/punkrockdev.github.io) by [Dražen Lučanin](https://github.com/metakermit)
+  - Summary: Notes on Dražen's web development portfolio website - PunkrockDev.com - e.g. tios on how to use gulp for image optimization; cloudshare for HTTPs (for custom domains on GitHub Pages) and Google AdWords tweaks to get traffic and more.
+  - Bio: Dražen Lučanin (@metakermit), a full stack web developer, running a web development studio Punk Rock Dev.
 
 #### \#5 - Wednesday, October 19th
 
