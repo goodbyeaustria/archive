@@ -22,7 +22,7 @@ Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Ga
 We're back! Join us.
 -->
 
-Happy New Year. Prosit 2017! We'll be back in spring 2017.
+Happy New Year. Prosit 2017! 
 
 ### Next meetup in 2017
 
@@ -31,6 +31,7 @@ Free. Everyone Welcome.
 <!--
 When:    **Tue, November 22nd**{:.when}  **starting at 18.30** (last before the new year 2017) <br>
 -->
+When:    We'll be back in spring 2017 <br>
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**  
 
 
@@ -63,6 +64,7 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 ### Upcoming talks - To be confirmed
 
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
+- **Jekyll in Action - Inside Offene Wahlen Österreich** [(Site Source)](https://github.com/OKFNat/offenewahlen) by [Stefan Kasberger](https://github.com/skasberger) ([Open Knowledge Austria](https://github.com/OKFNat))
 - **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
     - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
 
