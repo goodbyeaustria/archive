@@ -5,11 +5,12 @@ layout: default
 
 {% for speaker_hash in site.data.speakers %}
 {% assign speaker = speaker_hash[1] %}
+{% assign speaker_github = speaker.github %}
 
 <p>
- {% avatar {{speaker.github}} %}
- {% avatar {{speaker.github}} size=50 %}
- {% avatar {{speaker.github}} size=100 %}
+ {% avatar {{speaker_github}} %}
+ {% avatar {{speaker_github}} size=50 %}
+ {% avatar {{speaker_github}} size=100 %}
  <b>{{ speaker.name }}</b>
 </p>
 
