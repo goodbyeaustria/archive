@@ -43,8 +43,47 @@ rouven.wessling:
   bio: |
     add bio here
 
+chris.ward:
+  name:   Chris Ward
+  github: ChrisChinchilla
+  bio: |
+    add bio here
 
+matthias.beitl:
+  name:   Matthias Beitl
+  github: cssence
+  bio: |
+    add bio here
 
+stefan.haslinger:
+  name:   Stefan Haslinger 
+  github: haslinger
+  bio: |
+    add bio here
+
+richard.traindl:
+  name:   Richard Traindl
+  github: richardtraindl
+  bio: |
+    add bio here
+
+bernhard.benke:
+  name:   Bernhard Benke
+  github: spuz
+  bio: |
+    add bio here
+
+floor.drees:
+  name:   Floor Drees
+  github: FloorD 
+  bio: |
+    add bio here
+
+sebastian.graessl
+  name:   Sebastian Gräßl
+  github: bastilian
+  bio: |
+    add bio here
 
 
 ## upcoming speakers (to be confirmed)
