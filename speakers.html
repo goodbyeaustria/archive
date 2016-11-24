@@ -3,10 +3,11 @@ title: Speakers
 layout: default
 ---
 
-{% for speaker in site.data.speakers %}
+{% for speaker_hash in site.data.speakers %}
+{% assign speaker = speaker_hash[1] %}
 
 <p>
- <b{{ speaker.name }}</b>
+ <b>{{ speaker.name }}</b>
 </p>
 
 <p>{{ speaker.bio }}</p>
