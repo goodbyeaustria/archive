@@ -7,6 +7,9 @@ layout: default
 {% assign speaker = speaker_hash[1] %}
 
 <p>
+ {% avatar {{speaker.github}} %}
+ {% avatar {{speaker.github}} size=50 %}
+ {% avatar {{speaker.github}} size=100 %}
  <b>{{ speaker.name }}</b>
 </p>
 
