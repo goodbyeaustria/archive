@@ -1,0 +1,14 @@
+---
+title: Speakers
+layout: default
+---
+
+{% for speaker in site.data.speakers %}
+
+<p>
+ <b{{ speaker.name }}</b>
+</p>
+
+<p>{{ speaker.bio }}</p>
+
+{% endfor %}
