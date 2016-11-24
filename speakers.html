@@ -9,8 +9,9 @@ layout: default
 
 <p>
  {% avatar {{speaker_github}} %}
- {% avatar {{speaker_github}} size=50 %}
- {% avatar {{speaker_github}} size=100 %}
+ {% avatar {{speaker.github}} %}
+ {% avatar user=speaker_github size=50 %}
+ {% avatar user=speaker.github size=100 %}
  <b>{{ speaker.name }}</b>
 </p>
 
