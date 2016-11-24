@@ -14,3 +14,8 @@ kramdown:
 sass:
   sass_dir: css
   style:    expanded
+
+
+gems:
+  - jekyll-avatar
+
