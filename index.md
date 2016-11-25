@@ -15,6 +15,9 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 
 **Web Site Builder & Designer Meetup in Austria, Vienna • Wien • Vídeň • Beč**
 
+{% include members.html %}
+
+
 Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Gatsby & Friends // Join Us (Free) // No Database Required // We ♥ HTML & CSS.
 
 
