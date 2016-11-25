@@ -1,0 +1,8 @@
+
+<div>
+{% for member in site.data.members.members %} 
+  <a href="http://github.com/{{member.github}}" title="{{ member.name }}">
+    {% avatar user=member.github size=50 %}
+  </a>
+{% endfor %}
+</div>
