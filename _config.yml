@@ -19,3 +19,6 @@ sass:
 gems:
   - jekyll-avatar
 
+exclude:
+  - README.md
+  - _data/members/README.md
