@@ -13,12 +13,23 @@ layout: default
 
  <tr>
    <td>
- {% avatar user=member.github %}
- {% avatar user=member.github size=50 %}
- {% avatar user=member.github size=100 %}
+     {% avatar user=member.github size=50 %}
    </td>
    <td>
-    <h3>{{ member.name }}</h3>
+    <div style="font-size: 300%">{{ member.name }}</div>
+    <div>
+       {% if member.github %}
+          <a href="http://github.com/{{member.github}}">Github</a>
+       {% endif %}
+
+       {% if member.twitter %}
+          <a href="http://twitter.com/{{member.twitter}}">@{{member.twitter}}</a>
+       {% endif %}
+
+       {% if member.web %}
+          <a href="http://{{member.web}}">Website</a>
+       {% endif %}
+    </div>
    </td>
  </tr>
 
