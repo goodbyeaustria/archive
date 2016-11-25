@@ -3,13 +3,26 @@ title: Members
 layout: default
 ---
 
+<p>
+ Join us. <a href="https://github.com/viennahtml/members">Become a Vienna.html member!</a>
+</p>
+
+
+<table>
 {% for member in site.data.members.members %}
 
-<p>
+ <tr>
+   <td>
  {% avatar user=member.github %}
  {% avatar user=member.github size=50 %}
  {% avatar user=member.github size=100 %}
- <b>{{ member.name }}</b>
-</p>
+   </td>
+   <td>
+    <h3>{{ member.name }}</h3>
+   </td>
+ </tr>
 
-{% endfor %}
+ {% endfor %}
+ 
+</table>
+ 
