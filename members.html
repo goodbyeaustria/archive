@@ -1,0 +1,15 @@
+---
+title: Members
+layout: default
+---
+
+{% for member in site.data.members.members %}
+
+<p>
+ {% avatar user=member.github %}
+ {% avatar user=member.github size=50 %}
+ {% avatar user=member.github size=100 %}
+ <b>{{ member.name }}</b>
+</p>
+
+{% endfor %}
