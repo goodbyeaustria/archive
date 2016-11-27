@@ -25,7 +25,7 @@ Static is the New Dynamic // Jekyll • Middleman • Hugo • Metalsmith • Ga
 We're back! Join us.
 -->
 
-Happy New Year. Prosit 2017! 
+Happy New Year. Prosit 2017!
 
 ### Next meetup in 2017
 
@@ -69,7 +69,7 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 - **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
 - **Jekyll in Action - Inside Offene Wahlen Österreich** [(Site Source)](https://github.com/OKFNat/offenewahlen) by [Stefan Kasberger](https://github.com/skasberger) ([Open Knowledge Austria](https://github.com/OKFNat))
 - **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
-    - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more 
+    - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more
 
 
 ### Past meetups
@@ -78,7 +78,7 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 #### \#6 - Tuesday, November 22nd
 
-- **Markdown in Action: Building Courses (incl. Presentations, Pages, Handouts) for the Web and Print (PDF) w/ kramdown (webgen+Prawn)**  [(Sample Course)](http://www.mat.univie.ac.at/~praxis/sosem16/vorlesung.html) by  [Thomas Leitner](https://github.com/gettalong)
+- **Markdown in Action: Building Courses (incl. Presentations, Pages, Handouts) for the Web and Print (PDF) w/ kramdown (webgen+Prawn)**  [(Sample Course)](http://www.mat.univie.ac.at/~praxis/sosem16/vorlesung.html) by [Thomas Leitner](speakers#thomas.leitner)
     - Summary: How do you create presentation slides for a course and provide the information in various formats? The most obvious way would probably
       be to use a tool like Microsoft PowerPoint or LibreOffice Impress which can export the slides as handouts. However, this is a manual process
       where some steps can be forgotten. And the whole thing is not really web friendly.
@@ -95,11 +95,11 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
       In this talk Thomas will show you how to combine the static website
       generator webgen, the Markdown library kramdown and the PDF generation
       library Prawn to do these things.
-    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends) and the new [HexaPDF library and tool](http://hexapdf.gettalong.org/) - that let lets you read, write, merge, encrypt, and optimize PDFs and much more.  
+    - Bio: {{ site.data.speakers[ thomas.leitner ].bio }}
 
 - **Jekyll in Action Case Study - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
   - Covers how to use datafiles (in YAML) e.g. [projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml), how to customize your website theme and more.
-  - Bio: Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC), Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd). Likes owls, NASA trivia and Taekwondo. 
+  - Bio: Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC), Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd). Likes owls, NASA trivia and Taekwondo.
 
 - **Jekyll in Action Case Study - Inside PunkRockDev.com** [(Site Source)](https://github.com/punkrockdev/punkrockdev.github.io) by [Dražen Lučanin](https://github.com/metakermit)
   - Summary: Notes on Dražen's web development portfolio website - PunkrockDev.com - e.g. tios on how to use gulp for image optimization; cloudshare for HTTPs (for custom domains on GitHub Pages) and Google AdWords tweaks to get traffic and more.
@@ -114,14 +114,14 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 - **Using PostCSS with Static Site Builders** by [Max Stoiber](http://mxstbr.com)
   - Bio: Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night. Certified austrian skiing instructor loves being in the mountains spending time on the slopes and teaching children about the favorite past-time activity. Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista with an espresso machine and grinder at home cherishing starting the day by making a good coffee. Web projects include [sharingbuttons.io](http://sharingbuttons.io), [postcss.parts](http://postcss.parts) and more.
 - **Real World Static Site Showcase I - Inside ColorSnapper - Changelog Generation w/ Metalsmith.js and a Custom Plugin** by [Andrey Okonetchnikov](http://okonet.ru)
-  - Bio: Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria. Andrey has been working as a web-professional since 1999. 
+  - Bio: Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria. Andrey has been working as a web-professional since 1999.
   - Summary: An insight look about a hand-crafted Metalsmith plugin, that is, [`metalsmith-remote-json-to-files`](https://github.com/okonet/metalsmith-remote-json-to-files ) that lets you fetch JSON from remote URLs, transform and inject as files into the metalsmith pipeline and how it gets used to automate the [changelog](http://colorsnapper.com/changelog) generation for the [ColorSnapper](http://colorsnapper.com) site.
 - **Real World Static Site Showcase II - Inside Contentful - Turn Your Blog Posts into Facebook Instant Articles w/ Middleman** by [Rouven Weßling](https://twitter.com/rouvenwessling) [(Contentful)](https://contentful.com)
   - Bio: Rouven Weßling is a Joomla! developer turned front-end developer and is now a developer evangelist for Contentful. When not programming you most likely find Rouven eating cake or running on the streets of Berlin (so he can eat more cake).
   - Summary: [Facebook Instant Articles](https://instantarticles.fb.com) is a new way for any publisher - including you ;-) - to create fast, interactive articles on (mobile) Facebook.  Rouven will show how you can prepare and auto-build Facebook Instant Articles web feeds (in RSS) from your blog stories (in Markdown) with  the Middleman static site builder as [working live on the Contentful blog](https://www.contentful.com/blog/2016/05/13/facebook-instant-articles-and-contentful). Rouven will discuss alternative strategies and go through some of the possibilities and limitations of Facebook Instant Articles. PS: Rouven will start off with a short intro about [what's Contentful anyways?](https://contentful.com) And how you can use the Contentful service to manage your (static site) content.
 - **Real World Static Site Showcase III - Inside Chip Shop - Build Your Silicon Empire - Build A Cards Game w/ Jekyll (n Markdown)** by [Chris Ward](http://www.chrischinchilla.com)
-  - Bio: Chris Ward is an open advocate working on software, organisations, books and games. 
-Loves to highlight the underdog, beer and talking endlessly. 
+  - Bio: Chris Ward is an open advocate working on software, organisations, books and games.
+Loves to highlight the underdog, beer and talking endlessly.
 Chris originally a Londoner spent seven years in Melbourne and now lives in Berlin.
   - Summary: An insight look on how to build a [print-at-home Chip Shop (offline) board game](http://www.chrischinchilla.com/print-at-home-chip-shop-released) with printed paper cards (72 products, 76 events and 36 personalities) that let you run a computer company in the 80's to build your silicon empire. Learn how to turn [cards in markdown files](https://github.com/GregariousMammal/Chip-Shop) as used on the game website into [high-quality printable PDFs](http://www.chrischinchilla.com/creating-a-game-with-markdown-pandoc-latex-and-pdfjam) for a premium pre-boxed or print-yourself card deck version and much more.
 - **Why you would (not) want to build your own static site generator** by [Matthias Beitl](http://cssence.com)
@@ -134,7 +134,7 @@ Chris originally a Londoner spent seven years in Melbourne and now lives in Berl
    - Bio: Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer, Physicist, Mathematician, Astronomer, Biertaucher Podcaster
    - Summary: An overview of the current state of podcast publishing (problems, challenges, requirements) and how some of the issues can be resolved by Octopod, a static site generator (based on Jekyll and parts of Octopress) dedicated to podcasting. Stefan will go into details of secure and quick publishing (static, https, rsync) and show off some nice features of Octopod (Twitter, Disqus, Flattr + Podlove Webplayer integrations) in a live demo. Furthermore  will encourage you getting started with podcasting via a minimal setup and introduce you to the Viennese podcasting community (Podcasting meetup, Biertaucher podcast).
 - **Real World Static Site Show Case - [Tierarztpraxis Kaisterstrasse](http://tierarztpraxis-kaiserstrasse.at)** [(Site Source)](https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at) by Richard Traindl
-  - Bio: Richard Traindl is a product manager by day and html & css wrangler by night. 
+  - Bio: Richard Traindl is a product manager by day and html & css wrangler by night.
   - Summary: A insight look at a small business website for a veterinary practice in Vienna built using the Jekyll static site builder; uses a JavaScript picture gallery and includes some breakpoints for a (simple) hand-coded responsive (mobile) design.  
 
 
@@ -143,7 +143,7 @@ Chris originally a Londoner spent seven years in Melbourne and now lives in Berl
 - **Building Page Layouts with Susy Grid** by [Bernhard Benke](http://ultrasmall.at)
     - Bio: Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com/). Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor and besides coding really enjoys graphic design, typography and most of all, photography.
 - **Using Markdown (HTML "Shortcodes" in Plain Vanilla Text) with the kramdown Library and Tools** by [Thomas Leitner](https://github.com/gettalong)
-    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends). 
+    - Bio: Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) - a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends).
 - **Building Books with Gutenberg - a Web Typography Starter Kit - and Jekyll - a Static Site Builder** by [Gerald Bauer](https://github.com/geraldb)
     - Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
 
@@ -195,7 +195,7 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 [Vienna PHP](http://meetup.com/viennaphp) •
 [WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup) •
 [Python Austria](http://pyug.at) •
-[Vienna UX & Design](http://meetup.com/uxwien) 
+[Vienna UX & Design](http://meetup.com/uxwien)
 
 See the [Awesome Austria](https://github.com/viennahtml/awesome-austria) page for more.
 
@@ -217,5 +217,5 @@ February 2016: [Super-Fi](http://derstandard.at/karriere/jobsuche/vice-cee-super
 
 #### Space / Hosting
 
-[sektor5](http://www.sektor5.at) -- coworking space for creatives & startups. 
+[sektor5](http://www.sektor5.at) -- coworking space for creatives & startups.
 grab a table and join vienna's premier coworking space!
