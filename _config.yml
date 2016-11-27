@@ -16,6 +16,12 @@ sass:
   style:    expanded
 
 
+collections:
+  meetups:
+    output: true
+    permalink: /:name
+
+
 gems:
   - jekyll-avatar
 
