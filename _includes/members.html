@@ -2,7 +2,7 @@
 <div>
 <!-- todo: add anchor for member in link to members ??? - why? why not?? -->
 {% for member in site.data.members.members %}
-  <a href="http://viennahtml.github.io/members#{{ member.github }}" title="{{ member.name }}">
+  <a href="http://viennahtml.github.io/members" title="{{ member.name }}">
     {% avatar user=member.github size=50 %}
   </a>
 {% endfor %}

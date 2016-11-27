@@ -26,79 +26,116 @@ gerald.bauer:
   name:   Gerald Bauer
   github: geraldb
   bio: |
-    add bio here
+   Gerald Bauer studied at the Wirtschaftsuniversität Wien
+   and has worked for Google, Apple, and others overseas
+   and now lives in the Wagram hills in the Weinviertel
+   and is an enthusiastic collector of football and beer data.
+   Skills include Ruby, SQLite and HTML.
+
 
 drazen.lucanin:
   name:   Dražen Lučanin
   github: metakermit
   bio: |
-    add bio here
+   Dražen Lučanin (@metakermit), a full stack web developer,
+   running a web development studio Punk Rock Dev.
+
 
 max.stoiber:
   name:   Max Stoiber
   github: mxstbr
   bio: |
-    add bio here
+   Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night.
+   Certified austrian skiing instructor loves being in the mountains spending time on the slopes
+   and teaching children about the favorite past-time activity.
+   Max Stoiber is also a Speciality Coffee Association of Europe (SCAE) certified barista
+   with an espresso machine and grinder at home cherishing starting the day by making a good coffee.
+   Web projects include
+   [sharingbuttons.io](http://sharingbuttons.io),
+   [postcss.parts](http://postcss.parts) and more.
+
 
 andrey.okonetchnikov:
   name:   Andrey Okonetchnikov
   github: okonet
   bio: |
-    add bio here
+   Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria.
+   Andrey has been working as a web-professional since 1999.
+
 
 rouven.wessling:
   name:   Rouven Weßling
   github: realityking
   bio: |
-    add bio here
+   Rouven Weßling is a Joomla! developer turned front-end developer and is now a developer evangelist for Contentful.
+   When not programming you most likely find Rouven eating cake or running on the streets of Berlin
+   (so he can eat more cake).
+
 
 chris.ward:
   name:   Chris Ward
   github: ChrisChinchilla
   bio: |
-    add bio here
+   Chris Ward is an open advocate working on software, organisations, books and games.
+   Loves to highlight the underdog, beer and talking endlessly.
+   Chris originally a Londoner spent seven years in Melbourne and now lives in Berlin.
+
 
 matthias.beitl:
   name:   Matthias Beitl
   github: cssence
   bio: |
-    add bio here
+   Matthias Beitl gets paid for technical consulting, which tends to be rather fuzzy.
+   To combat this, he manages to sneak in some tangible web development whenever possible.
+   He really likes the web, his first site went online in 1998,
+   at a time when having a tilde in the URL was the norm. IRL hobbies include coffee and ducks, in that order.
+
 
 stefan.haslinger:
   name:   Stefan Haslinger
   github: haslinger
   bio: |
-    add bio here
+   Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer,
+   Physicist, Mathematician, Astronomer, Biertaucher Podcaster
+
 
 richard.traindl:
   name:   Richard Traindl
   github: richardtraindl
   bio: |
-    add bio here
+   Richard Traindl is a product manager by day and html & css wrangler by night.
+
 
 bernhard.benke:
   name:   Bernhard Benke
   github: spuz
   bio: |
-    add bio here
+   Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com).
+   Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor
+   and besides coding really enjoys graphic design, typography and most of all, photography.
+
 
 floor.drees:
   name:   Floor Drees
   github: FloorD
   bio: |
-    add bio here
+   Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam,
+   now lives in Vienna running the sektor5 coworking space.
+   When Floor grows up she wants to become Neelie Kroes.
+
 
 sebastian.graessl:
   name:   Sebastian Gräßl
   github: bastilian
   bio: |
-    add bio here
+   Sebastian Gräßl is a social network addict; information junkie; part time party-goer;
+   working at Red Hat; music freak; i'm a pirate.
 
 
 ## upcoming speakers (to be confirmed)
-
-stefan.kasberger:
-  name:   Stefan Kasberger
-  github: skasberger
-  bio: |
-    add bio here
+##
+## stefan.kasberger:
+##  name:   Stefan Kasberger
+##  github: skasberger
+##  bio: |
+##    add bio here
