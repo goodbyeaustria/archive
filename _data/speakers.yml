@@ -2,8 +2,10 @@
 #  datafile listing all speakers (use lookup by key e.g. speakers[key]
 
 thomas.leithner:
-  name:   Thomas Leitner
-  github: gettalong
+  name:    Thomas Leitner
+  github:  gettalong
+  twitter: _gettalong
+  web:     gettalong.org
   bio: |
    Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna
    and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) -
@@ -14,11 +16,13 @@ thomas.leithner:
 
 
 laura.gaetano:
-  name:   Laura Gaetano
-  github: alicetragedy
+  name:    Laura Gaetano
+  github:  alicetragedy
+  twitter: alicetragedy
+  web:     alicetragedy.org
   bio: |
-   Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC),
-   Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd).
+   Artist+Rubyist at heart. Organiser of [Rails Girls Summer of Code](http://railsgirlssummerofcode.org),
+   Two-trick pony at [Travis CI](https://travis-ci.org)/[Travis Foundation](http://foundation.travis-ci.org).
    Likes owls, NASA trivia and Taekwondo.
 
 
@@ -34,16 +38,20 @@ gerald.bauer:
 
 
 drazen.lucanin:
-  name:   Dražen Lučanin
-  github: metakermit
+  name:    Dražen Lučanin
+  github:  metakermit
+  twitter: metakermit
+  web:     metakermit.com
   bio: |
-   Dražen Lučanin (@metakermit), a full stack web developer,
-   running a web development studio Punk Rock Dev.
+   Dražen Lučanin - a full stack web developer,
+   running a web development studio [Punk Rock Dev](https://punkrockdev.com).
 
 
 max.stoiber:
-  name:   Max Stoiber
-  github: mxstbr
+  name:    Max Stoiber
+  github:  mxstbr
+  twitter: mxstbr
+  web:     mxstbr.com
   bio: |
    Max Stoiber is a front-end web developer by day, maker, skiier, barista, musician and reader by night.
    Certified austrian skiing instructor loves being in the mountains spending time on the slopes

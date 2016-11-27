@@ -5,11 +5,15 @@ layout: default
 
 <!-- todo: add/use shared header/masthead ??? -->
 
+<style>
+  img.avatar { border-radius: 16px; }
+</style>
+
 <h1><a href="http://viennahtml.github.io">Vienna.html</a></h1>
 
 <p>
- Thank you.
- New speakers welcome. Yes, you can.
+ Out speakers. Thank you.
+ <a href="https://github.com/viennahtml/members/issues">New speakers welcome. Yes, you can.</a>
 </p>
 
 
@@ -19,7 +23,7 @@ layout: default
 
  <tr id="{{speaker_hash[0]}}">
    <td style="vertical-align: top;">
-    {% avatar user=speaker.github size=100 %}
+    {% avatar user=speaker.github size=120 %}
    </td>
 <td>
  <div style="padding-left: 10px;">
