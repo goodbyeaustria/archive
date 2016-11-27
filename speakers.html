@@ -17,10 +17,10 @@ layout: default
 {% for speaker_hash in site.data.speakers %}
 {% assign speaker = speaker_hash[1] %}
 
- <tr>
+ <tr id="{{speaker_hash[0]}}">
    <td>
- {% avatar user=speaker.github size=80 %}
-</td>
+    {% avatar user=speaker.github size=80 %}
+   </td>
 <td>
  <div style="padding-left: 10px;">
   <div style="font-size: 140%; font-weight: bold;">{{ speaker.name }}</div>

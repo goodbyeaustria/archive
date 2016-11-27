@@ -15,7 +15,7 @@ layout: default
 <table>
 {% for member in site.data.members.members %}
 
- <tr>
+ <tr id="{{member.github}}">
    <td>
      {% avatar user=member.github size=60 %}
    </td>
@@ -40,6 +40,5 @@ layout: default
  </tr>
 
  {% endfor %}
- 
+
 </table>
- 

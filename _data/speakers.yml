@@ -4,21 +4,30 @@
 thomas.leithner:
   name:   Thomas Leitner
   github: gettalong
-  bio: | 
-    add bio here
+  bio: |
+   Thomas Leitner is head of the computer group of the mathematics department of the University of Vienna
+   and lead developer of the [kramdown library and tool](http://kramdown.gettalong.org) -
+   a fast, markdown-superset processor (in ruby) for converting plain old vanilla text into hypertext
+   (powering GitHub Pages, Jekyll, and friends)
+   and the new [HexaPDF library and tool](http://hexapdf.gettalong.org/) -
+   that let lets you read, write, merge, encrypt, and optimize PDFs and much more.
+
 
 laura.gaetano:
   name:   Laura Gaetano
   github: alicetragedy
   bio: |
-    add bio here
+   Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC),
+   Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd).
+   Likes owls, NASA trivia and Taekwondo.
+
 
 gerald.bauer:
   name:   Gerald Bauer
   github: geraldb
   bio: |
     add bio here
-  
+
 drazen.lucanin:
   name:   Dražen Lučanin
   github: metakermit
@@ -56,7 +65,7 @@ matthias.beitl:
     add bio here
 
 stefan.haslinger:
-  name:   Stefan Haslinger 
+  name:   Stefan Haslinger
   github: haslinger
   bio: |
     add bio here
@@ -75,7 +84,7 @@ bernhard.benke:
 
 floor.drees:
   name:   Floor Drees
-  github: FloorD 
+  github: FloorD
   bio: |
     add bio here
 

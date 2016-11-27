@@ -1,12 +1,12 @@
 
 <div>
 <!-- todo: add anchor for member in link to members ??? - why? why not?? -->
-{% for member in site.data.members.members %} 
-  <a href="http://viennahtml.github.io/members" title="{{ member.name }}">
+{% for member in site.data.members.members %}
+  <a href="http://viennahtml.github.io/members#{{ member.github }}" title="{{ member.name }}">
     {% avatar user=member.github size=50 %}
   </a>
 {% endfor %}
-  
+
   &nbsp;&nbsp;
   <span style="font-size: 150%; font-weight: bold;">
     <a href="https://github.com/viennahtml/members" title="Add yourself to the Vienna.html Members Directory - free; no database required - just some YAML ;-)">Join us!</a>
