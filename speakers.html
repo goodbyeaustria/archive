@@ -3,16 +3,47 @@ title: Speakers
 layout: default
 ---
 
+<!-- todo: add/use shared header/masthead ??? -->
+
+<h1><a href="http://viennahtml.github.io">Vienna.html</a></h1>
+
+<p>
+ Thank you.
+ New speakers welcome. Yes, you can.
+</p>
+
+
+<table>
 {% for speaker_hash in site.data.speakers %}
 {% assign speaker = speaker_hash[1] %}
 
-<p>
- {% avatar user=speaker.github %}
- {% avatar user=speaker.github size=50 %}
- {% avatar user=speaker.github size=100 %}
- <b>{{ speaker.name }}</b>
-</p>
+ <tr>
+   <td>
+ {% avatar user=speaker.github size=80 %}
+</td>
+<td>
+ <div style="padding-left: 10px;">
+  <div style="font-size: 140%; font-weight: bold;">{{ speaker.name }}</div>
+  <div style="font-size: 70%">
+    {% if speaker.github %}
+       <a href="http://github.com/{{speaker.github}}">Github</a> &nbsp;&nbsp;
+    {% endif %}
 
-<p>{{ speaker.bio }}</p>
+    {% if speaker.twitter %}
+       Twitter: <a href="http://twitter.com/{{speaker.twitter}}">@{{speaker.twitter}}</a> &nbsp;&nbsp;
+    {% endif %}
+
+    {% if speaker.web %}
+       <a href="http://{{speaker.web}}">Website</a>
+    {% endif %}
+  </div>
+  <div>
+     {{ speaker.bio | markdownify }}
+  </div>
+ </div>
+</td>
+</tr>
 
 {% endfor %}
+
+</table>
