@@ -151,14 +151,13 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
 
 #### \#1 - Tuesday, November 24th
 
-- **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](https://github.com/geraldb)
+- **Static Site Builders of the Year 2015 Awards** by [Gerald Bauer](speakers#gerald.bauer)
     - Middleman or Jekyll? Metallsmith or Wintersmith? Pelican or Nikola? Emacs or Vim? Let's look at the world's greatest (free) static site builders.   
-      Bio: Gerald Bauer studied at the Wirtschaftsuniversität Wien and has worked for Google, Apple, and others overseas and now lives in the Wagram hills in the Weinviertel and is an enthusiastic collector of football and beer data. Skills include Ruby, SQLite and HTML.
-- **CSS Pub Quiz** by [Floor Drees](https://twitter.com/floordrees)
+- **CSS Pub Quiz** by [Floor Drees](speakers#floor.drees)
     - Test your styling sense. Fun guaranteed ;-)   
-      Bio: Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam, now lives in Vienna running the sektor5 coworking space. When Floor grows up she wants to become Neelie Kroes.
-- **XSL/T - Generating Static Sites Like It's 1999** by [Sebastian Gräßl](http://bastilian.me)
-    - Bio: Sebastian Gräßl is a social network addict; information junkie; part time party-goer; working at @EngineYard; music freak; i'm a pirate.
+      Bio: {{ site.data.speakers[ 'floor.drees' ].bio }}
+- **XSL/T - Generating Static Sites Like It's 1999** by [Sebastian Gräßl](speakers#sebastian.graessl)
+    - Bio: {{ site.data.speakers[ 'sebastian.graessl' ].bio }}
 
 
 ### News
