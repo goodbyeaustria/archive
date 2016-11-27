@@ -22,7 +22,7 @@ laura.gaetano:
   web:     alicetragedy.org
   bio: |
    Artist+Rubyist at heart. Organiser of [Rails Girls Summer of Code](http://railsgirlssummerofcode.org),
-   Two-trick pony at [Travis CI](https://travis-ci.org)/[Travis Foundation](http://foundation.travis-ci.org).
+   Two-trick pony at [Travis CI](https://travis-ci.org) / [Travis Foundation](http://foundation.travis-ci.org).
    Likes owls, NASA trivia and Taekwondo.
 
 
@@ -64,25 +64,31 @@ max.stoiber:
 
 
 andrey.okonetchnikov:
-  name:   Andrey Okonetchnikov
-  github: okonet
+  name:    Andrey Okonetchnikov
+  github:  okonet
+  twitter: okonetchnikov
+  web:     okonet.ru
   bio: |
    Andrey Okonetchnikov - a front-end engineer and ui & ux designer from Yaroslavl, Russia living in Vienna, Austria.
    Andrey has been working as a web-professional since 1999.
 
 
 rouven.wessling:
-  name:   Rouven Weßling
-  github: realityking
+  name:    Rouven Weßling
+  github:  realityking
+  twitter: rouvenwessling
   bio: |
-   Rouven Weßling is a Joomla! developer turned front-end developer and is now a developer evangelist for Contentful.
+   Rouven Weßling is a Joomla! developer turned front-end developer
+   and is now a developer evangelist for Contentful.
    When not programming you most likely find Rouven eating cake or running on the streets of Berlin
    (so he can eat more cake).
 
 
 chris.ward:
-  name:   Chris Ward
-  github: ChrisChinchilla
+  name:    Chris Ward
+  github:  ChrisChinchilla
+  twitter: chrischinch
+  web:     gregariousmammal.com
   bio: |
    Chris Ward is an open advocate working on software, organisations, books and games.
    Loves to highlight the underdog, beer and talking endlessly.
@@ -90,8 +96,10 @@ chris.ward:
 
 
 matthias.beitl:
-  name:   Matthias Beitl
-  github: cssence
+  name:    Matthias Beitl
+  github:  cssence
+  twitter: cssence
+  web:     cssence.com
   bio: |
    Matthias Beitl gets paid for technical consulting, which tends to be rather fuzzy.
    To combat this, he manages to sneak in some tangible web development whenever possible.
@@ -100,8 +108,10 @@ matthias.beitl:
 
 
 stefan.haslinger:
-  name:   Stefan Haslinger
-  github: haslinger
+  name:    Stefan Haslinger
+  github:  haslinger
+  twitter: informatom
+  web:     informatom.com
   bio: |
    Entrepreneur, Rationalist, Cyclist, Agnostic, Software Developer,
    Physicist, Mathematician, Astronomer, Biertaucher Podcaster
@@ -115,8 +125,10 @@ richard.traindl:
 
 
 bernhard.benke:
-  name:   Bernhard Benke
-  github: spuz
+  name:    Bernhard Benke
+  github:  spuz
+  twitter: spuz78
+  web:     ultrasmall.at
   bio: |
    Bernhard Benke is a front end web developer at [Stryria Digital Services](http://styriadigitalservices.com).
    Bernhard has a strong interest in frontend technologies, especially in Sass as CSS preprocessor
@@ -124,8 +136,9 @@ bernhard.benke:
 
 
 floor.drees:
-  name:   Floor Drees
-  github: FloorD
+  name:    Floor Drees
+  github:  FloorD
+  twitter: floordrees
   bio: |
    Floor Dress studied Graphics Design at the Willem de Kooning Academy in Rotterdam,
    now lives in Vienna running the sektor5 coworking space.
@@ -133,8 +146,10 @@ floor.drees:
 
 
 sebastian.graessl:
-  name:   Sebastian Gräßl
-  github: bastilian
+  name:    Sebastian Gräßl
+  github:  bastilian
+  twitter: bastilian
+  web:     bastilian.me
   bio: |
    Sebastian Gräßl is a social network addict; information junkie; part time party-goer;
    working at Red Hat; music freak; i'm a pirate.

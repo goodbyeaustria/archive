@@ -13,18 +13,19 @@ layout: default
 
 <p>
  Our speakers. Thank you.
+ <a href="https://github.com/viennahtml/members/issues">New speakers welcome. Yes, you can.</a>
 </p>
 
 <p>
 {% for speaker_hash in site.data.speakers %}
 {% assign speaker = speaker_hash[1] %}
   <a href="#{{speaker_hash[0]}}">{{ speaker.name }}</a>
-  &nbsp;&nbsp;
+   {% if forloop.last %}
+   {% else %}
+     •
+   {% endif %}
+   &nbsp;&nbsp;
 {% endfor %}
-</p>
-
-<p>
- <a href="https://github.com/viennahtml/members/issues">New speakers welcome. Yes, you can.</a>
 </p>
 
 
