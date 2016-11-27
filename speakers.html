@@ -6,13 +6,24 @@ layout: default
 <!-- todo: add/use shared header/masthead ??? -->
 
 <style>
-  img.avatar { border-radius: 16px; }
+  img.avatar { border-radius: 30px; }
 </style>
 
 <h1><a href="http://viennahtml.github.io">Vienna.html</a></h1>
 
 <p>
- Out speakers. Thank you.
+ Our speakers. Thank you.
+</p>
+
+<p>
+{% for speaker_hash in site.data.speakers %}
+{% assign speaker = speaker_hash[1] %}
+  <a href="#{{speaker_hash[0]}}">{{ speaker.name }}</a>
+  &nbsp;&nbsp;
+{% endfor %}
+</p>
+
+<p>
  <a href="https://github.com/viennahtml/members/issues">New speakers welcome. Yes, you can.</a>
 </p>
 
