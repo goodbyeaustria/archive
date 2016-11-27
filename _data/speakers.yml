@@ -1,7 +1,7 @@
 ###
 #  datafile listing all speakers (use lookup by key e.g. speakers[key]
 
-thomas.leithner:
+thomas.leitner:
   name:    Thomas Leitner
   github:  gettalong
   twitter: _gettalong
