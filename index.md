@@ -95,15 +95,16 @@ Let us know. [Post your talk on "our wall"](https://github.com/viennahtml/member
       In this talk Thomas will show you how to combine the static website
       generator webgen, the Markdown library kramdown and the PDF generation
       library Prawn to do these things.
-    - Bio: {{ site.data.speakers[ thomas.leitner ].bio }}
+    - Bio: {{ site.data.speakers[ thomas.leitner ][1].bio }}
 
-- **Jekyll in Action Case Study - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](https://github.com/alicetragedy) [(Travis Foundation)](http://foundation.travis-ci.org)
+- **Jekyll in Action Case Study - Inside Travis Foundation** [(Site Source)](https://github.com/travis-ci/travis-foundation) by [Laura Gaetano](speakers#laura.gaetano) [(Travis Foundation)](http://foundation.travis-ci.org)
   - Covers how to use datafiles (in YAML) e.g. [projects.yml](https://github.com/travis-ci/travis-foundation/blob/gh-pages/_data/projects.yml), how to customize your website theme and more.
-  - Bio: Artist+Rubyist at heart. Organiser of [@RailsGirlsSoC](https://twitter.com/RailsGirlsSoC), Two-trick pony at [@travisci](https://twitter.com/travisci)/[@travis_fnd](https://twitter.com/travis_fnd). Likes owls, NASA trivia and Taekwondo.
+  - Bio: {{ site.data.speakers[ laura.gaetano ][1].bio }}
 
-- **Jekyll in Action Case Study - Inside PunkRockDev.com** [(Site Source)](https://github.com/punkrockdev/punkrockdev.github.io) by [Dražen Lučanin](https://github.com/metakermit)
+- **Jekyll in Action Case Study - Inside PunkRockDev.com** [(Site Source)](https://github.com/punkrockdev/punkrockdev.github.io) by [Dražen Lučanin](speakers#drazen.lucanin)
   - Summary: Notes on Dražen's web development portfolio website - PunkrockDev.com - e.g. tios on how to use gulp for image optimization; cloudshare for HTTPs (for custom domains on GitHub Pages) and Google AdWords tweaks to get traffic and more.
-  - Bio: Dražen Lučanin (@metakermit), a full stack web developer, running a web development studio Punk Rock Dev.
+  - Bio: {{ site.data.speakers[ drazen.lucanin ][1].bio }}
+
 
 #### \#5 - Wednesday, October 19th
 
