@@ -15,6 +15,13 @@ layout: default
 <div class='showcase'>
 {% for showcase in site.data.showcase %}
   <div class='site'>
+    <div>
+         {% if showcase.tools %}
+          {% for tool in showcase.tools %}
+            #{{tool}}
+          {% endfor %}
+        {% endif %}      
+    </div>
     <div class='site-live'>
       <a href="{{ showcase.live }}">
         <img src="{{site.path}}/i/thumbnails/{{showcase.thumbnail}}">
@@ -23,9 +30,6 @@ layout: default
     <div class='site-info'>
       <b>{{ showcase.title }}</b> -
       {{ showcase.subtitle }}
-      <br>
-      <a href="{{ showcase.live }}">[Live]</a>
-      <a href="{{ showcase.source }}">[Source]</a>
       <br>      
       by {% if showcase.authors %}
            <!-- multiple authors (w/ array) -->
@@ -35,10 +39,21 @@ layout: default
            <!-- single author -->
             {% if showcase.author.github %} 
               {% assign author_github = showcase.author.github %}
-              <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=20 %}</a>
+              <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=24 %}</a>
             {% endif %}
             {{ showcase.author.name }}
          {% endif %}
+      <br>
+      <a href="{{ showcase.live }}">[Live]</a>
+      <a href="{{ showcase.source }}">[Source]</a>
+
+          <br>
+         {% if showcase.tags %}
+          {% for tag in showcase.tags %}
+            #{{tag}}
+          {% endfor %}
+        {% endif %}      
+      
     </div>
   </div>
 {% endfor %}
