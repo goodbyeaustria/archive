@@ -14,15 +14,20 @@ layout: default
 
 <div class='showcase'>
 {% for showcase in site.data.showcase %}
-  <div class='site' style='margin-bottom: 20px;'>
+  <div class='site' style='margin-bottom: 20px; border: 1px solid silver; border-radius: 6px;'>
     <div class='site-header'>
          {% if showcase.tools %}
           {% for tool in showcase.tools %}
             #{{tool}}
           {% endfor %}
-          <br>
         {% endif %}
-  
+            •
+         {% if showcase.tags %}
+          {% for tag in showcase.tags %}
+            #{{tag}}
+          {% endfor %}
+        {% endif %}      
+          <br>
        <b>{{ showcase.title }}</b> -
        {{ showcase.subtitle }}      
     </div>
@@ -55,12 +60,6 @@ layout: default
             {% endif %}
             {{ showcase.author.name }}
          {% endif %}
-          <br>
-         {% if showcase.tags %}
-          {% for tag in showcase.tags %}
-            #{{tag}}
-          {% endfor %}
-        {% endif %}      
       
     </div>
   </div>
