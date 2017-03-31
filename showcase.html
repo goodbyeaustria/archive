@@ -15,22 +15,26 @@ layout: default
 <div class='showcase'>
 {% for showcase in site.data.showcase %}
   <div class='site' style='margin-bottom: 20px;'>
-    <div>
+    <div class='site-header'>
          {% if showcase.tools %}
           {% for tool in showcase.tools %}
             #{{tool}}
           {% endfor %}
-        {% endif %}      
+          <br>
+        {% endif %}
+  
+       <b>{{ showcase.title }}</b> -
+       {{ showcase.subtitle }}      
     </div>
     <div class='site-live'>
       <a href="{{ showcase.live }}">
         <img src="{{site.path}}/i/thumbnails/{{showcase.thumbnail}}">
       </a>
     </div>
-    <div class='site-info'>
-      <b>{{ showcase.title }}</b> -
-      {{ showcase.subtitle }}
-      <br>      
+    <div class='site-footer'>
+      <a href="{{ showcase.live }}">[Live]</a>
+      <a href="{{ showcase.source }}">[Source]</a>
+
       by {% if showcase.authors %}
            <!-- todo: use a shared include for showing author -->
            <!-- multiple authors (w/ array) -->
@@ -51,10 +55,6 @@ layout: default
             {% endif %}
             {{ showcase.author.name }}
          {% endif %}
-      <br>
-      <a href="{{ showcase.live }}">[Live]</a>
-      <a href="{{ showcase.source }}">[Source]</a>
-
           <br>
          {% if showcase.tags %}
           {% for tag in showcase.tags %}
