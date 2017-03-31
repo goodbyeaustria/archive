@@ -26,6 +26,19 @@ layout: default
       <br>
       <a href="{{ showcase.live }}">[Live]</a>
       <a href="{{ showcase.source }}">[Source]</a>
+      <br>      
+      by {% if showcase.authors %}
+           <!-- multiple authors (w/ array) -->
+            {{ showcase.authors | jsonify }}
+         {% endif %}
+         {% if showcase.author %}
+           <!-- single author -->
+            {% if showcase.author.github %} 
+              {% assign author_github = showcase.author.github %}
+              <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=20 %}</a>
+            {% endif %}
+            {{ showcase.author.name }}
+         {% endif %}
     </div>
   </div>
 {% endfor %}
