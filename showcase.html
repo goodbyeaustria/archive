@@ -14,7 +14,7 @@ layout: default
 
 <div class='showcase'>
 {% for showcase in site.data.showcase %}
-  <div class='site'>
+  <div class='site' style='margin-bottom: 20px;'>
     <div>
          {% if showcase.tools %}
           {% for tool in showcase.tools %}
@@ -33,8 +33,15 @@ layout: default
       <br>      
       by {% if showcase.authors %}
            <!-- multiple authors (w/ array) -->
-            {{ showcase.authors | jsonify }}
+            {% for author in showcase.authors %}
+              {% if author.github %} 
+                {% assign author_github = showcase.author.github %}
+                <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=24 %}</a>
+              {% endif %}
+              {{ author.name }}
+            {% endfor %}
          {% endif %}
+      
          {% if showcase.author %}
            <!-- single author -->
             {% if showcase.author.github %} 
