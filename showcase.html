@@ -32,10 +32,11 @@ layout: default
       {{ showcase.subtitle }}
       <br>      
       by {% if showcase.authors %}
+           <!-- todo: use a shared include for showing author -->
            <!-- multiple authors (w/ array) -->
             {% for author in showcase.authors %}
               {% if author.github %} 
-                {% assign author_github = showcase.author.github %}
+                {% assign author_github = author.github %}
                 <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=24 %}</a>
               {% endif %}
               {{ author.name }}
