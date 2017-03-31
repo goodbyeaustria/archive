@@ -22,7 +22,7 @@
   source:    https://github.com/karriereat/dev-blog
   tags:      [corporate team blog]
   tools:     [jekyll, liquid]
-  thumbnail: karriereatdev.png
+  thumbnail: kariereatdev.png     ## fix typo in filename!!!
   authors:
   - name:    Klemens Gordon
     github:  k9ordon
