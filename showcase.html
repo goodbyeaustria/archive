@@ -1,0 +1,32 @@
+---
+title: Showcase - Learn by Example
+layout: default
+---
+
+
+<!-- todo: add/use shared header/masthead ??? -->
+
+<h1><a href="http://viennahtml.github.io">Vienna.html</a></h1>
+
+<p>
+  Learn by Example. Great static website made in Austria.
+</p>
+
+<div class='showcase'>
+{% for showcase in site.data.showcase %}
+  <div class='site'>
+    <div class='site-live'>
+      <a href="{{ showcase.live }}">
+        <img src="{{site.path}}/i/thumbnails/{{showcase.thumbnail}}">
+      </a>
+    </div>
+    <div class='site-info'>
+      <b>{{ showcase.title }}</b> -
+      {{ showcase.subtitle }}
+      <br>
+      <a href="{{ showcase.live }}">[Live]</a>
+      <a href="{{ showcase.source }}">[Source]</a>
+    </div>
+  </div>
+{% endfor %}
+</div>
