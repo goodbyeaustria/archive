@@ -3,6 +3,89 @@
 #   - Learn by Example
 #  
 
+- title:     Octopod
+  subtitle:  Publish your own podcasts / radio shows
+  live:      https://jekyll-octopod.github.io
+  source:    https://github.com/jekyll-octopod/jekyll-octopod.github.io.source
+  tags:     [podcast, radio show, audio, documentation]
+  tools:    [jekyll, liquid]
+  thumbnail: octopod.png
+  author:
+    name:   Stefan Haslinger
+    github: haslinger
+
+
+- title:     Punk Rock Dev
+  subtitle:  Indie web studio - developing apps with a kick
+  live:      https://punkrockdev.com
+  source:    https://github.com/punkrockdev/punkrockdev.github.io
+  tags:     [agency,portfolio,blog,newsletter,forms]
+  tools:    [jekyll, liquid, gulp]
+  thumbnail: punkrockdev.png
+  author:
+    name:   Dražen Lučanin
+    github: metakermit
+
+
+- title:     Hello my name is Max
+  subtitle:  "I'm a frontend developer in Vienna, making things on the web"
+  live:      https://mxb.at
+  source:    https://github.com/maxboeck/mxb
+  tags:     [personal blog, portfolio]
+  tools:    [jekyll, liquid]
+  thumbnail: mxb.png
+  author:
+    name:   Max Böck
+    github: maxboeck
+
+
+- title:     Offene Wahlen Österreich
+  subtitle:  Austrian open election data initiative
+  live:      http://offenewahlen.at
+  source:    https://github.com/OKFNat/offenewahlen-website
+  tags:     [community,initiative,open data]
+  tools:    [jekyll, liquid]
+  thumbnail: offenewahlen.png
+  author:
+    name:   Stefan Kasberger
+    github: skasberger
+
+
+- title:     Tierarztpraxis Kaiserstrasse
+  subtitle:  "Veterinary doctors practice for cats, dogs, 'n' friends"
+  live:      http://tierarztpraxis-kaiserstrasse.at
+  source:    https://github.com/richardtraindl/tierarztpraxis-kaiserstrasse.at
+  tags:     [small business, doctors, pets, gallery]
+  tools:    [jekyll]
+  thumbnail: tierarztpraxis.png
+  author:
+    name:   Richard Traindl
+    github: richardtraindl
+
+
+- title:     The World Factbook
+  subtitle:  "Free open public domain data - 250+ country profiles (incl. flags 'n' maps)"
+  live:      http://factbook.github.io/au
+  source:    https://github.com/factbook/factbook.github.io
+  tags:     [reference, world, open data]
+  tools:    [jekyll]
+  thumbnail: factbook.png
+  author:
+    name:   Gerald Bauer
+    github: geraldb
+
+
+- title:     Hyde Press Bookshelf
+  subtitle:  "Free books about Jekyll 'n' friends"
+  live:      http://hydepress.github.io
+  source:    https://github.com/hydepress/hydepress.github.io
+  tags:     [books, bookshelf, library, documentation, manuscripts]
+  tools:    [jekyll]
+  thumbnail: hydepress.png
+  author:
+    name:   Gerald Bauer
+    github: geraldb
+    
 
 - title:     Hi, I'm Manuel
   subtitle:  I make web applications, games and digital art
