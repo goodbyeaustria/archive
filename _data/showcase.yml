@@ -3,6 +3,29 @@
 #   - Learn by Example
 #  
 
+- title:     Michael Bromley
+  subtitle:  Hi, I'm a front-end developer
+  live:      https://www.michaelbromley.co.uk
+  source:    https://github.com/michaelbromley/michaelbromley.co.uk
+  tags:     [blog, portfolio]
+  tools:    [hugo, gotemplates]
+  thumbnail: michaelbromleycouk.png
+  author:
+    name:   Michael Bromley
+    github: michaelbromley
+
+- title:     Richard Blechinger
+  subtitle:  Web developer, Designer, Caffeine Addict
+  live:      http://www.blechi.at
+  source:    https://github.com/pretzelhands/blechi.at
+  tags:     [blog, portfolio]
+  tools:    [jekyll, liquid]
+  thumbnail: blechiat.png
+  author:
+    name:   Richard Blechinger
+    github: pretzelhands
+
+
 - title:     Octopod
   subtitle:  Publish your own podcasts / radio shows
   live:      https://jekyll-octopod.github.io
