@@ -103,31 +103,3 @@ The Great Gatsby - Build (Single-Page) Static Sites w/ React.js
 Jigsaw - Build Static Sites w/ PHP
 
 [More info »](http://meetup.com/viennaphp)
-
-
-
-# Reminder -  Add Yourself to the Vienna.html Members Directory
-
-Add yourself to the Vienna.html Members Directory - free; no database required -
-just some YAML ;-) Example:
-
-    - name:    Martin Linkov
-      github:  marfi
-      twitter: marfuzii
-      web:     unigraph.rocks
-
-[Get started @ `viennahtml/members` »](https://github.com/viennahtml/members)
-
-
-
-# Talks, Talks, Talks - Next Meetup - Vienna.html #4 - Tue June/28th
-
-Bring Your Mini Talk! Next meetup Tue June/28th. (Note: Last meetup before summer break.)
-
-Yes, you can. New speakers welcome.
-
-**Stay Up-To-Date - Follow Along**
-
-- For Vienna.html News => Follow [@viennahtml](https://twitter.com/viennahtml)
-- For Static Site News => Follow [@statictimes](https://twitter.com/statictimes)
-- For Writing in Plain Text w/ Markdown News => Follow [@manuscriptsnews](https://twitter.com/manuscriptsnews)

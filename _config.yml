@@ -22,9 +22,8 @@ collections:
     permalink: /:name
 
 
-gems:
+plugins:
   - jekyll-avatar
 
 exclude:
   - README.md
-  - _data/members/README.md
