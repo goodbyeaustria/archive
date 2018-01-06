@@ -24,7 +24,7 @@ collections:
 
 plugins:
   - jekyll-avatar
+  - jekyll-readme-index
 
 exclude:
-  - README.md
   - NOTES.md
