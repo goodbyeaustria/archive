@@ -1,3 +1,8 @@
+---
+layout:     default
+---
+
+
 # Vienna.html Members Directory
 
 
@@ -9,7 +14,9 @@ Welcome. Join Us. Free. No Database Required - Just Some YAML ;-)
 
 ## How To Add Yourself
 
-Step 1: Add yourself to the member list, that is, [`_data/members.yml`](_data/members.yml). Example:
+Step 1: Add yourself to the member list, that is, [`_data/members.yml`](https://github.com/austriacodes/vienna.html/blob/master/_data/members.yml).
+Example:
+
 
 ``` yaml
 - name:    Henry Jekyll                 # your name (required)
@@ -18,7 +25,9 @@ Step 1: Add yourself to the member list, that is, [`_data/members.yml`](_data/me
   twitter: henry                        # your github handle (optional)
 ```
 
-> Note: Do NOT forget to send a pull request with your [`_data/members.yml`](_data/members.yml) changes (see above).
+> Note: Do NOT forget to send a pull request with your [`_data/members.yml`](https://github.com/austriacodes/vienna.html/blob/master/_data/members.yml)
+> changes (see above).
+
 
 Step 2: There's no step 2 ;-)
 

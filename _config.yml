@@ -28,3 +28,7 @@ plugins:
 
 exclude:
   - NOTES.md
+
+readme_index:
+  enabled:          true
+  remove_originals: false
