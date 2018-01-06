@@ -6,12 +6,13 @@
 
      <!-- CSS -->
      <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
-     <link rel="stylesheet" href="/css/style.css">
+     <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
   </head>
   <body>
-    {% include github.html %}
     <div class="container">
       {{ content }}
     </div>
+
+    {% include github.html %}
   </body>
 </html>

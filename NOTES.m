@@ -17,7 +17,6 @@ When:    We'll be back in spring 2017 <br>
 Where:   **@ [sektor5 Coworking Café+Lobby](http://www.sektor5.at), Siebenbrunnengasse 44, Wien 5**
 
 
-![](i/sektor5map.jpg)
 
 - _Your Talk Here_
 - _Your Talk Here_
@@ -31,13 +30,6 @@ Let us know. [Post your talk on "our wall"](https://github.com/austriacodes/vien
 
 
 ## Upcoming meetups
-
-### Upcoming talks - To be confirmed
-
-- **Hugo in Action - Inside Usersnap** by N.N. [(Usersnap)](https://usersnap.com)
-- **Jekyll in Action - Inside Offene Wahlen Österreich** [(Site Source)](https://github.com/OKFNat/offenewahlen) by [Stefan Kasberger](https://github.com/skasberger) ([Open Knowledge Austria](https://github.com/OKFNat))
-- **Jekyll ('n' GitHub Pages) - What's News?** by [Gerald Bauer](https://github.com/geraldb)
-    - Covers [Gem-Packaged Themes](http://jekyllrb.com/docs/themes/) e.g. [Hello, Minima!](https://github.com/henrythemes/hello-minima-theme) 'n' [more](https://github.com/planetjekyll/awesome-jekyll-themes), [Web Admin](https://github.com/jekyll/jekyll-admin), [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the new "Octopress" all-inclusive theme 'n' setup), [Simpler Publishing w/ GitHub Pages](https://github.com/blog/2228-simpler-github-pages-publishing) w/ new "Select Source" setting 'n' more
 
 
 
@@ -56,34 +48,6 @@ Follow along on Twitter [@viennahtml](https://twitter.com/viennahtml) for the la
 - Talk: Add Anchor Links to Your (Static) Website w/ Anchor.js by Gerald Bauer at [Vienna.js on Wed Sep/30](http://www.meetup.com/viennajs/events/220339170). Join us. Free.
 
 
-### More Groups
-
-#### In Vienna, Austria
-
-[Vienna.js](http://meetup.com/viennajs) •
-[Vienna React.js](http://meetup.com/Vienna-ReactJS-Meetup) •
-[Vienna.rb](http://vienna-rb.at) •
-[Vienna Ruby Habits](http://meetup.com/RubyHabits) •
-[Vienna PHP](http://meetup.com/viennaphp) •
-[WordPress Vienna](http://meetup.com/Vienna-WordPress-Meetup) •
-[Python Austria](http://pyug.at) •
-[Vienna UX & Design](http://meetup.com/uxwien)
-
-See the [Awesome Austria](https://github.com/viennahtml/awesome-austria) page for more.
-
-
-#### In the World
-
-[Static Web Tech](http://www.staticwebtech.com) @ San Francisco, California  •
-[{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) @ New York City, New York
-
-
-
-
-#### In the World
-
-[Static Web Tech](http://www.staticwebtech.com) @ San Francisco, California  •
-[{static is} The New Dynamic](http://meetup.com/The-New-Dynamic) @ New York City, New York
 
 
 
