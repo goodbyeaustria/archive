@@ -132,4 +132,4 @@ Free. Everyone Welcome.
 
 ### More Groups
 
-See the [Awesome Austria](https://github.com/austriacodes/awesome-austria) page for more.
+See the Awesome Austria page for more.
