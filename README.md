@@ -128,8 +128,3 @@ Free. Everyone Welcome.
     - Bio: {{ site.data.speakers[ 'sebastian.graessl' ].bio }}
 
 
-
-
-### More Groups
-
-See the Awesome Austria page for more.
