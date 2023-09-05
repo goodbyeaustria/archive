@@ -1,0 +1,67 @@
+---
+title: Showcase - Learn by Example
+layout: default
+---
+
+
+<!-- todo: add/use shared header/masthead ??? -->
+
+<h1><a href="https://github.com/austriacodes">Austria Codes</a></h1>
+
+<p>
+  Learn by example. Great static websites made in Austria.
+</p>
+
+<div class='showcase'>
+{% for showcase in site.data.showcase %}
+  <div class='site' style='padding: 12px; margin-bottom: 20px; border: 1px solid silver; border-radius: 6px;'>
+    <div class='site-header'>
+         {% if showcase.tools %}
+          {% for tool in showcase.tools %}
+            #{{tool}}
+          {% endfor %}
+        {% endif %}
+            •
+         {% if showcase.tags %}
+          {% for tag in showcase.tags %}
+            #{{tag}}
+          {% endfor %}
+        {% endif %}
+          <br>
+       <b>{{ showcase.title }}</b> -
+       {{ showcase.subtitle }}
+    </div>
+    <div class='site-live'>
+      <a href="{{ showcase.live }}">
+        <img src="{{ '/thumbnails/' | append: showcase.thumbnail | relative_url }}">
+      </a>
+    </div>
+    <div class='site-footer'>
+      <a href="{{ showcase.live }}">[Live]</a>
+      <a href="{{ showcase.source }}">[Source]</a>
+
+      by {% if showcase.authors %}
+           <!-- todo: use a shared include for showing author -->
+           <!-- multiple authors (w/ array) -->
+            {% for author in showcase.authors %}
+              {% if author.github %}
+                {% assign author_github = author.github %}
+                <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=24 %}</a>
+              {% endif %}
+              {{ author.name }}
+            {% endfor %}
+         {% endif %}
+
+         {% if showcase.author %}
+           <!-- single author -->
+            {% if showcase.author.github %}
+              {% assign author_github = showcase.author.github %}
+              <a href="https://github.com/{{ author_github }}">{% avatar user=author_github size=24 %}</a>
+            {% endif %}
+            {{ showcase.author.name }}
+         {% endif %}
+
+    </div>
+  </div>
+{% endfor %}
+</div>
