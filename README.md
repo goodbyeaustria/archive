@@ -9,3 +9,6 @@
 
 [planet/](planet) - Planet Vienna.rb Web Feed List & Configuration
 
+
+[vienna.crypto/](vienna.crypto) - Vienna Crypto (& Ethereum) Programming Meetup / Stammtisch
+
