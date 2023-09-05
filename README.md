@@ -7,8 +7,5 @@
 
 [vienna.rb/](vienna.rb) - Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria
 
-[planet/](planet) - Planet Vienna.rb Web Feed List & Configuration
-
-
 [vienna.crypto/](vienna.crypto) - Vienna Crypto (& Ethereum) Programming Meetup / Stammtisch
 
