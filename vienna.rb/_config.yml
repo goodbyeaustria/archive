@@ -1,0 +1,10 @@
+# note: title required for primer (default) theme - to avoid (auto-added) dupliate title
+title: "Vienna.rb / Wien.rb - Ruby Meetup / Stammtisch in Vienna, Austria"
+
+
+plugins:
+  - jekyll-avatar
+  - jemoji
+
+
+## - jekyll-titles-from-headings
