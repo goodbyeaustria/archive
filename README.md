@@ -9,3 +9,5 @@
 
 [vienna.crypto/](vienna.crypto) - Vienna Crypto (& Ethereum) Programming Meetup / Stammtisch
 
+[opendata/](opendata) - Awesome Open Data Austria / Österreich 
+
